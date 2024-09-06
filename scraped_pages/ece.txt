@@ -1,0 +1,4493 @@
+
+
+
+ Electronics and Communication Engineering 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MSEC
+
+
+Contact Us At : 9790821869
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+ ABOUT 
+
+ Vision and Mission 
+ Management 
+ Administration & Faculty
+ Statutory Cells/ Committees 
+  Admissions
+  Fees 
+
+
+
+ DEPARTMENTS 
+
+ Civil Engineering 
+ Computer Science and Engineering 
+ Electronics and Communication Engineering 
+ Electrical and Electronics Engineering 
+ Information Technology 
+ Mechanical Engineering 
+ Artificial Intelligence and Data Science 
+ Humanities and Science 
+
+
+
+ WHY MSEC 
+
+ Campus Life 
+ Counselling  
+ Accolades  
+ Gallery 
+
+
+
+ INFRASTRUCTURES 
+
+ Laboratories 
+ Auditoriums 
+ Library 
+
+
+ RESEARCH 
+ PLACEMENTS 
+ NIRF 
+ Mandatory Disclosure 
+ CONTACT US 
+
+
+
+
+
+
+
+
+ Electronics and Communication Engineering 
+
+  Accredited by the National Board of Accreditation for 3 years  from the Academic Years 2023-2024 to 2025-2026 i.e. upto 30.06.2026 (Previously from the Academic Years 2020-2021 to 2022-2023 i.e. upto 30.06.2023) 
+
+
+ About the Department 
+ Infrastructure 
+ Association & Activities
+ Academics 
+ Innovations in Teaching 
+ Events 
+ Achievements 
+ Faculty 
+ Sports 
+ Alumni 
+ R & D 
+
+
+
+
+
+
+
+
+
+
+Click to download the Department Brochure
+Click here for Admission Enquiry
+
+ 
+
+                        The Department of Electronics and Communication Engineering was set up in the year 2001 at Meenakshi Sundararajan Engineering College. Under the erudite leadership of Mrs.Siji Sivanandan, Head of the Department along with the efficient faculty members and excellent students, the department has won laurels to the college. This department shares the mission and vision of the Institute in imparting quality education to the students. The department has been efficacious in offering its students the opportunity to work on diverse hardware and software platform. In order to meet the wide ranging, challenging and very rapidly growing Global Demands for “Professional Electronics and Communication Engineers” in this Hi-Tech Era, the Department of “Electronics and Communication Engineering” was established.
+                    
+
+                        The First year Core Curriculum begins with a common knowledge base and customizes Students by grounding in basic Engineering Foundation and in Critical Hands-on Skills in Engineering Practices. The Course has access to enhance the Learning, Student Perspective and Experience to develop Specialization in areas of ‘Electronics and Communication Engineering’. Class room learning is complemented by practical in Hi-Tech Labs, Projects and Hands on Experiences, so as to foster Knowledge in ‘Engineering and Technology’.
+							Accredited by the National Board of Accreditation for 3 years from the Academic Years 2023-2024 to 2025-2026 i.e. upto 30.06.2026  (Previously from the Academic Years 2020-2021 to 2022-2023) 
+Vision
+To emerge as a Centre of excellence in offering quality education to produce students technically competent, socially responsible and industry ready graduates in electronics and communication engineering.
+Mission
+The above vision will be achieved by,
+
+Ensuring effective teaching learning methodologies.
+Inculcating creative thinking through innovative and group work exercises.
+Developing and motivating research ability among students by establishing research linkage with leading industries.
+Equipping faculty and students with the latest developments in Electronics and Communication and to face the challenges.
+
+Program Specific Outcomes 
+
+PSO1: Demonstrate principles of basic electronic circuits, digital electronics, microprocessor and signal processing.
+PSO2: Design systems for applications in the areas of communication, networking and embedded systems.
+PSO3: Design low cost quality, energy efficient and eco-friendly products.
+
+Program Educational Objectives 
+
+PEO1: To provide appropriate knowledge in applying the concepts of basic electronics & communication engineering.
+PEO2: To be able to identify, analyse and solve engineering problems in the field of electronics & communication engineering.
+PEO3: To provide an opportunity to work in multidisciplinary groups and research environments.
+PEO4: To educate and inculcate professional ethics, human values, self-confidence and awareness of societal needs.
+PEO5: To motivate the students in intellectual pursuits, lifelong learning in order to develop different perspectives of technological developments.
+
+ 
+Program Outcomes 
+The graduates in Electronics & Communication Engineering will:
+
+
+PO1 : Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals and engineering specialization to the solution of complex engineering problems.
+PO2 :Problem analysis: Identify, formulate, review, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3 :Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4 :Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5 :Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+PO6 :The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO7 :Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8 :Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9 :Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10 :Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11 : Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12 :Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+
+Course Outcomes
+Click for 2017 Regulation
+Click for 2013 Regulation
+
+
+
+
+
+ INFRASTRUCTURE 
+
+ 
+
+
+
+
+
+S.No
+
+
+Name Of The Lab
+
+
+Major Equipment List
+
+
+
+
+1
+
+
+ECE LAB 1-ELECTRONIC DEVICES AND CIRCUITS LAB
+
+
+Function Generator, CRO Dual Regulated Power Supply, Decade Resistance Box, Decade Capacitance Box, Decade Inductance Box, Ammeter, Voltmeter.
+
+
+
+
+2
+
+
+ECE LAB 2 –DIGITAL ELECTRONICS LAB
+ 
+
+
+CRO  , Function Generator , Single Regulated Power Supply, Digital IC Trainer Kit, Digital IC Tester.
+
+
+
+
+3
+
+
+ECE LAB 3-COMMUNICATION LAB
+ 
+
+
+Kits for Signal Sampling TDM,AM,FM,PCM,DM and Line Coding Schemes Error Control Code, CRO, DSO with Logic Analyzer, Spectrum Analyser.
+
+
+
+
+4
+
+
+ECE LAB 4- OPTICAL AND MICROWAVE LAB
+
+
+Optical kit with LED source, Optical power Meter, Optical kit with LASER source, Microwave work bench with  Klystron Tube and Gunn diode, Micro Strip Trainer with Network Analyzer.
+
+
+
+
+5
+
+
+ECE LAB 5- MICROPROCESSOR & MICROCONTROLLERS LAB  / EMBEDDED SYSTEM LAB
+
+
+8086 , 8085 Microprocessor trainer kit with power supply, 8051 Microcontroller trainer kit, Traffic light control, stepper motor control, Keyboard & Display interface, A/D & D/A interfacing , Serial & Parallel, Interrupt controller DMA Controller interfacing cards, Cortex M4 Board, Cortex M3 Based ZigBee Interface Module.
+
+
+
+
+6
+
+
+ECE LAB 6 – DIGITAL SIGNAL PROCESSING LAB/VLSI DESIGN LAB
+
+
+PCs with Fixed / Floating point DSP Processors, MATLAB with Simulink and Signal Processing Tool Box or Equivalent Software in desktop system, Xilinx ISE EDA Tools, Xilinx FPGA Boards, Tanner EDA Tools, Personal computer
+
+
+
+
+7
+
+
+ECE LAB 7 -LIC LAB
+ 
+
+
+CRO, Function Generator, Dual Regulated Power Supply, Digital Multimeter, IC tester.
+
+
+
+
+8
+
+
+ECE LAB 8-PROJECT & SIMULATION LAB
+
+
+Personal Computer
+
+
+
+
+
+
+
+
+
+
+
+
+ ELECSA 
+
+
+                               The Department of Electronics and Communication Engineering Science has formed the Association ELECSA. ELECSA facilitates the students of ECE to become familiar with the recent trends in Electronics and Communication by making them member of various technical associations. Most of our students are members of technical societies like IEEE, ISTE and IETE. In association with this technical bodies seminars, guest lectures, conferences and workshops are conducted in regular basis to enrich the knowledge of the students. 
+                            
+
+Click here for latest Newsletter
+
+PROFESSIONAL SOCIETY ACTIVITIES
+ 
+
+
+
+
+S. No.
+
+
+Professional Societies
+
+
+Members
+
+
+
+
+1.
+
+
+Institution of Electronics and Telecommunication Engineers (IETE)
+
+
+All Students From First Year to Final Year
+
+
+
+
+2.
+
+
+Indian Society for Technical Education (ISTE)
+
+
+All Students From First Year to Final Year
+
+
+
+
+3.
+
+
+Institute of Electrical and Electronics Engineers (IEEE)
+
+
+All Students From First Year to Final Year
+
+
+
+
+ 
+EVENTS CONDUCTED
+
+
+
+
+S.No
+
+
+Academic Year
+
+
+IEEE
+
+
+IETE
+
+
+ISTE
+
+
+
+
+1
+
+
+2018-2019
+
+
+8
+
+
+8
+
+
+3
+
+
+
+
+2
+
+
+2017-2018
+
+
+7
+
+
+7
+
+
+3
+
+
+
+
+3
+
+
+2016-2017
+
+
+4
+
+
+4
+
+
+1
+
+
+
+
+ 
+
+
+
+
+ Academics 
+
+
+                                The Department of Electronics & Communication Engineering has time-honored in the year 2001.The mission of the department is to communicate and educate the students, on how to gain technical expertise in electronics and communication  simultaneously and contribute effectively in the development and improvement of  recent trends.
+                            
+
+
+
+
+
+Batch
+
+
+Total Number of Students
+
+
+Number of Students Graduated
+
+
+Number of Students Not Graduated
+
+
+Percentage
+
+
+
+
+2015-2019
+
+
+128
+
+
+117
+
+
+11
+
+
+91.40
+
+
+
+
+2014-2018
+
+
+133
+
+
+117
+
+
+16
+
+
+87.96
+
+
+
+
+2013-2017
+
+
+133
+
+
+127
+
+
+6
+
+
+95.48
+
+
+
+
+2012-2016
+
+
+129
+
+
+116
+
+
+13
+
+
+89.92
+
+
+
+
+
+
+                                The department works hard under the guidance of principal and other faculty members to maintain the result percentage and the university ranks every year.                             
+UNIVERSITY RANK LIST
+
+
+
+
+
+ 
+BATCH: 2002 - 2006
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+PERCENTAGE
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+30902106021
+
+
+NANDHINI.S
+
+
+FWD
+
+
+-
+
+
+3RD
+
+
+
+
+2
+
+
+30902106032
+
+
+RAJESHWARIE.V.S
+
+
+FWD
+
+
+-
+
+
+35TH
+
+
+
+
+ 
+BATCH: 2004 – 2008
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+PERCENTAGE
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+30904106043
+
+
+SONA.K
+
+
+FWD
+
+
+91%
+
+
+2ND
+
+
+
+
+ 
+BATCH: 2006 – 2010
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+PERCENTAGE
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+30906106053
+
+
+SUBHASREE.S
+
+
+FWD
+
+
+88%
+
+
+27TH
+
+
+
+
+2
+
+
+30906106029
+
+
+NITHYADEVI.S
+
+
+FWD
+
+
+87%
+
+
+49TH
+
+
+
+
+ 
+BATCH: 2007 – 2011
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+PERCENTAGE
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+30907106013
+
+
+DHIVYALAKSHUMI.S
+
+
+FWD
+
+
+88%
+
+
+14TH
+
+
+
+
+2
+
+
+30907106015
+
+
+DIVYA.G
+
+
+FWD
+
+
+88%
+
+
+20TH
+
+
+
+
+3
+
+
+30907106039
+
+
+PAVITHRA.V
+
+
+FWD
+
+
+88%
+
+
+21ST
+
+
+
+
+ 
+BATCH: 2008 – 2012
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+CGPA
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+30908106012
+
+
+GAYATHRI.M.K
+
+
+FWD
+
+
+8.83
+
+
+31ST
+
+
+
+
+2
+
+
+30908106023
+
+
+MANJU.V
+
+
+FWD
+
+
+8.74
+
+
+40TH
+
+
+
+
+3
+
+
+30908106016
+
+
+INDRESH.G
+
+
+FWD
+
+
+8.73
+
+
+41ST
+
+
+
+
+ 
+BATCH: 2009 – 2013
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+CGPA
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+30909106022
+
+
+MAHALAKSHMI.R
+
+
+FWD
+
+
+9.04
+
+
+15
+
+
+
+
+2
+
+
+30909106004
+
+
+ARAVINDAN L.N
+
+
+FWD
+
+
+8.92
+
+
+26
+
+
+
+
+3
+
+
+30909106048
+
+
+SUDHA.S
+
+
+FWD
+
+
+8.87
+
+
+31
+
+
+
+
+4
+
+
+30909106045
+
+
+SIVAGAMI.M.R
+
+
+FWD
+
+
+8.87
+
+
+31
+
+
+
+
+5
+
+
+30909106016
+
+
+JANANI.S
+
+
+FWD
+
+
+8.69
+
+
+48
+
+
+
+
+ 
+BATCH: 2010 – 2014
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+CGPA
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+30910106018
+
+
+FATHIMA JAHANA.J
+
+
+FWD
+
+
+9.02
+
+
+11
+
+
+
+
+2
+
+
+30910106034
+
+
+PRISCILLA.G
+
+
+FWD
+
+
+8.9
+
+
+22
+
+
+
+
+3
+
+
+30910106013
+
+
+DEEPIKA.C
+
+
+FWD
+
+
+8.77
+
+
+32
+
+
+
+
+4
+
+
+30910106005
+
+
+ANUSHA.U
+
+
+FWD
+
+
+8.64
+
+
+45
+
+
+
+
+ 
+BATCH: 2011 – 2015
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+CGPA
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+311511106073
+
+
+SANDHYA.R
+
+
+FWD
+
+
+9.06
+
+
+20
+
+
+
+
+2
+
+
+311511106091
+
+
+SRIMATHY.M
+
+
+FWD
+
+
+8.91
+
+
+35
+
+
+
+
+3
+
+
+311511106008
+
+
+ANITHA.C
+
+
+FWD
+
+
+8.89
+
+
+37
+
+
+
+
+4
+
+
+311511106029
+
+
+JEEVETHA.S
+
+
+FWD
+
+
+8.82
+
+
+44
+
+
+
+
+5
+
+
+311511106037
+
+
+KARTHIKEYAN.R
+
+
+FWD
+
+
+8.81
+
+
+45
+
+
+
+
+6
+
+
+311511106045
+
+
+MAHALAKSHMI.S
+
+
+FWD
+
+
+8.78
+
+
+48
+
+
+
+
+ 
+BATCH: 2012 – 2016
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+CGPA
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+311512106084
+
+
+Shanmuga Priya S
+
+
+FWD
+
+
+9.05
+
+
+24
+
+
+
+
+2
+
+
+311512106101
+
+
+Veera Lakshmi G
+
+
+FWD
+
+
+9.01
+
+
+28
+
+
+
+
+3
+
+
+311512106030
+
+
+Gayathri  S
+
+
+FWD
+
+
+8.86
+
+
+43
+
+
+
+
+4
+
+
+311512106081
+
+
+Shahana Khader Fathima M H
+
+
+FWD
+
+
+8.820
+
+
+47
+
+
+
+
+ 
+BATCH: 2013 – 2017
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+CGPA
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+311513106088
+
+
+SARAYU.S
+
+
+FWD
+
+
+9.05
+
+
+24
+
+
+
+
+2
+
+
+311513106090
+
+
+SELESTINA JENNIFER.G
+
+
+FWD
+
+
+8.99
+
+
+30
+
+
+
+
+3
+
+
+311513106073
+
+
+RENGANAYAKI.V
+
+
+FWD
+
+
+8.99
+
+
+30
+
+
+
+
+4
+
+
+311513106103
+
+
+SOWMYALAKSHMI.E
+
+
+FWD
+
+
+8.95
+
+
+34
+
+
+
+
+5
+
+
+311513106107
+
+
+SUMITHA.V.T
+
+
+FWD
+
+
+8.92
+
+
+37
+
+
+
+
+6
+
+
+311513106101
+
+
+SINDHUJA.S
+
+
+FWD
+
+
+8.9
+
+
+39
+
+
+
+
+7
+
+
+311513106014
+
+
+DEEPA VINCENT
+
+
+FWD
+
+
+8.88
+
+
+41
+
+
+
+
+8
+
+
+311513106102
+
+
+SOWMYA.R
+
+
+FWD
+
+
+8.86
+
+
+43
+
+
+
+
+9
+
+
+311513106078
+
+
+SAHABIYA BANU.T
+
+
+FWD
+
+
+8.84
+
+
+45
+
+
+
+
+10
+
+
+311513106005
+
+
+AISHWARYA.R
+
+
+FWD
+
+
+8.82
+
+
+48
+
+
+
+
+ 
+BATCH: 2014 – 2018
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+CGPA
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+311514106050
+
+
+MONICA RAJ  M
+
+
+FWD
+
+
+8.83
+
+
+39
+
+
+
+
+2
+
+
+311514106031
+
+
+KAMATCHI  G
+
+
+FWD
+
+
+8.81
+
+
+41
+
+
+
+
+3
+
+
+311514106014
+
+
+DHIKSHITHA  P
+
+
+FWD
+
+
+8.77
+
+
+45
+
+
+
+
+ 
+BATCH: 2015 – 2019
+
+
+
+
+S.NO
+
+
+REGISTER NUMBER
+
+
+NAME
+
+
+CLASS (FWD/FC/SC)
+
+
+CGPA
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+311515106028
+
+
+HANA Z
+
+
+FWD
+
+
+9.13
+
+
+12
+
+
+
+
+2
+
+
+311515106111
+
+
+UMAPUJITHA S
+
+
+FWD
+
+
+9.04
+
+
+21
+
+
+
+
+
+  Innovations in Teaching 
+Course Material - Sample
+
+Question Paper - Sample
+
+Question Bank - Sample
+
+ 
+
+
+Use of modern teaching aids like LCD projectors are usually employed in classrooms and other student learning environments.
+Department encourages Academic discussions between faculties and students using Whatsapp.
+Faculties share Academic study material using digital library
+Department conducts Seminar, workshops, expert talks and Industrial visits on every semester
+Department has introduced Mini projects every semester in the curriculum
+Students are encouraged to participate National and Internal conferences in coordination with Faculty members
+Faculty members use digital library and other open source platforms such as NPTEL video lectures to make the subject easy to understand
+Faculty members are encouraged to participate in short term courses, staff development programs and workshops on advanced topics to keep pace with the advanced level of knowledge and skills. Over the past years, Faculty members have been participating/ presenting papers in National / International conferences and publish their articles to enrich their knowledge
+Faculty utilize department library as well as College main library for reference
+Currently the library holds over 27402 volumes, 9176 titles, 1840 CDs, Newspapers and business magazines for faculty reference.
+Main library holds 5216 volumes of Electronics and Communication engineering books under 1794 titles.
+Library has state of art digital library, E Learning Centre, Video Conference Room, , Students Discussion rooms, Faculty discussion room, and Books & Reference Section, Circulation Counter, Journals/Magazines and Newspaper Section are made available in Lower Level of the library building
+
+
+
+
+ EVENTS 
+ Click here to view events
+
+ Avalanche 
+
+The department of ECE conducts a technical seminar during the odd semesters. The 3rd year students of this branch with the help of the staffs arrange this seminar. This seminar thus exposes students to event management also. Corporate employees and lecturers are invited to deliver a six hour session about the most widely and currently used electronic technology.
+
+
+
+ Technical Symposiums 
+
+PRANAV - One day Technical Symposium
+The department of ECE organizes one day technical symposium every year. PRANAV inculcate team spirit and management skills among students, who actively involves in organizing the event. Every year around 1000 students from various engineering colleges participate in various events of PRANAV.
+ 
+Pranav `16 conducted on 13th August 2016 is the 13th National level technical symposium conducted by the the department of Electronics and Communication in association with ELECSA (Electronics and Communication Students Association). This event was a subliming success with copious participation of 700 students from around 300 colleges in and outside Tamil Nadu. Theme of this event was ”AGNI YAKTHA,by which we pledge to take india to the next level with the engineers and taken E waste as the cause and have made efforts fot the same to be addressed.
+ 
+Pranav `17 conducted on 30th August 2017 is  the 14th National level technical symposium conducted by the the department of Electronics and Communication in association with ELECSA (Electronics and Communication Students Association). This event was a subliming success with copious participation of 700 students from around 300 colleges in and outside Tamil Nadu. Theme of this event was ”ATLANTIS”,scientifically and technologically advanced island of immense power and taken children with autism as the cause and have made efforts for the same to be addressed.
+ 
+Pranav `18 conducted on 15th September 2018 is the 15th  National level technical symposium conducted by the the department of Electronics and Communication in association with ELECSA (Electronics and Communication Students Association). This event was a subliming success with copious participation of 700 students from around 300 colleges in and outside Tamil Nadu. Theme of this event was ”EVOLUTION OF ELECTRONICS”, and taken cerebral palsy as the cause and have made efforts for the same to be addressed
+ National Conference on Advancement in Emerging Technologies
+The department hosted the 5th “National Conference  on Advancement in Emerging Technologies” on March 15th, 2018. More than 100 papers were received and 12 papers were shortlisted. The selected papers were published in GRD journal.
+Chief Guest & Keynote address
+         Dr. M.A.Bhagyaveni prof/ECE/CEG
+                  
+The department hosted the 4th “National Conference on Advancement in Emerging Technologies” on March 18th, 2017. More than 100 papers were received and 12 papers were shortlisted.
+ 
+Chief Guest 
+
+ Lokesh Bhagchand CTS
+
+Keynote address
+Mr.Bharath Kumar
+                  Scientist, DRDO
+          Mr.K.Sivarajan
+                   Sr.Er.Sony Ericcsion
+
+
+  ACHIEVEMENTS 
+ ACHIEVEMENTS - FACULTY 
+ 
+
+
+
+
+S.No
+
+
+Name of the Faculty member
+
+
+Designation
+
+
+Online – Courses
+
+
+Awards / Certificates
+
+
+Organised by
+
+
+
+
+1
+
+
+Dr. A. BABIYOLA
+
+
+Associate Professor
+
+
+Introduction to Coding Theory, Mar 2019
+
+
+Course completed
+
+
+NPTEL
+
+
+
+
+Principle of communication – I, Apr 2019
+
+
+ELITE
+
+
+
+
+Microwave Theory & Techniques , Nov 2019
+
+
+ELITE
+
+
+
+
+2
+
+
+N MEENAKSHI
+
+
+Assistant Professor
+
+
+Antennas, Apr 2019
+
+
+ELITE - GOLD
+
+
+NPTEL
+
+
+
+
+Microwave Theory & Techniques , Nov 2019
+
+
+ELITE - GOLD
+
+
+
+
+3
+
+
+B. SARASWATHY
+
+
+Assistant Professor
+
+
+Antennas, Apr 2019
+
+
+ELITE - GOLD
+
+
+NPTEL
+
+
+
+
+Microwave Theory & Techniques , Nov 2019
+
+
+ELITE - GOLD
+
+
+
+
+4
+
+
+M.MANJULA
+
+
+Assistant Professor
+
+
+Microprocessors  & Micro controllers , Apr 2019
+
+
+ELITE
+
+
+NPTEL
+
+
+
+
+5
+
+
+DEEPA M
+
+
+Assistant Professor
+
+
+Introduction to coding Theory, Mar 2019
+
+
+Course completed
+
+
+NPTEL
+
+
+
+
+Digital Image Processing, Nov 2019
+
+
+ELITE – SILVER
+
+
+
+
+6
+
+
+S.SINDHU
+
+
+Assistant Professor
+
+
+Digital Circuits, Nov 2019
+
+
+ELITE – SILVER
+
+
+NPTEL
+
+
+
+
+7
+
+
+A.VELU
+
+
+Assistant Professor
+
+
+Digital Circuits, Nov 2019
+
+
+ELITE
+
+
+NPTEL
+
+
+
+
+8
+
+
+S.BALASUNDARAM
+
+
+Assistant Professor
+
+
+Digital Image Processing, Nov 2019
+
+
+ELITE
+
+
+NPTEL
+
+
+
+
+9
+
+
+S.ELANGOVAN
+
+
+Assistant Professor
+
+
+Microwave Theory & Techniques , Nov 2019
+
+
+ELITE
+
+
+NPTEL
+
+
+
+
+10
+
+
+D.KARTHIKA
+
+
+Assistant Professor
+
+
+Analog Communication , Nov 2019
+
+
+Course completed
+
+
+NPTEL
+
+
+
+
+
+
+
+
+ACHIEVEMENTS - STUDENTS
+2016-2017
+
+
+
+
+S.no
+
+
+Name of the Student
+
+
+Year/Sem
+
+
+Name of the Event
+
+
+Date
+
+
+Venue
+
+
+
+
+1
+
+
+Jahnvi Ramachandran
+
+
+III / 5
+
+
+Model United Nations
+
+
+16.09.2016
+
+
+SSN College of Engineering
+
+
+
+
+2.
+
+
+Mohamed Tabrez Saqib.U
+
+
+III / 5
+
+
+SSN-MUN
+(Participated)
+
+
+16.09.2016
+
+
+SSN College of Engineering
+
+
+
+
+4.
+
+
+Sudharsanan
+
+
+III / 5
+
+
+SSN-MUN
+(Participated)
+
+
+16.09.2016
+
+
+SSN College of Engineering
+
+
+
+
+5.
+
+
+Monisha .S
+
+
+II/ 3
+
+
+Winner in Mixed Bag - Minute to win it (Epsilon 2k16 - EEE
+
+
+16.08.2016
+
+
+MSEC
+
+
+
+
+6.
+
+
+Subaidha Begum R
+
+
+II/ 3
+
+
+Winner in Mixed Bag - Minute to win it (Epsilon 2k16 - EEE
+
+
+16.08.2016
+
+
+MSEC
+
+
+
+
+7
+
+
+Ruban Hubert.J
+
+
+III / 5
+
+
+Project Presentation/participated
+
+
+20-08-2016
+
+
+Easwari Engineering College
+
+
+
+
+8
+
+
+Deepthi .M
+
+
+III / 5
+
+
+Paper Presentation/participated
+
+
+20-08-2016
+
+
+Valliammai Engineering College
+
+
+
+
+9
+
+
+Deepthi.M
+
+
+III / 5
+
+
+Paper presentation/participated
+
+
+17-09-2016
+
+
+KCG  College of Technology
+
+
+
+
+10
+
+
+Krithika.S
+
+
+III / 5
+
+
+Paper presentation/participated
+
+
+20-08-2016
+
+
+Valliammai Engineering College
+
+
+
+
+11
+
+
+Krithika.S
+
+
+III / 5
+
+
+Paper presentation/participated
+
+
+17-09-2016
+
+
+KCG College of Technology
+
+
+
+
+12
+
+
+P.Pavithra
+
+
+III / 5
+
+
+Circuit Grooming
+
+
+20-08-2016
+
+
+Valliammai Engineering College
+
+
+
+
+13
+
+
+D.Sowmiya
+
+
+III / 5
+
+
+Circuit Grooming
+
+
+20-08-2016
+
+
+Valliammai Engineering College
+
+
+
+
+14
+
+
+C.C.S. HABHISHEK
+
+
+III / 5
+
+
+Project Display/2nd Prize
+
+
+17-09-2016
+
+
+KCG College Of Technology
+
+
+
+
+15
+
+
+C.C.S. HABHISHEK
+
+
+III / 5
+
+
+Techno-Jam/2nd Prize
+
+
+17-09-2016
+
+
+KCG College Of Technology
+
+
+
+
+16
+
+
+C.C.S. HABHISHEK
+
+
+III / 5
+
+
+Connections
+
+
+17-09-2016
+
+
+KCG College Of Technology
+
+
+
+
+17
+
+
+Madhushree .PK.
+
+
+III / 5
+
+
+Paper presentation
+
+
+17/02/16
+
+
+Hindustan University
+
+
+
+
+18
+
+
+Naveen Karthick B
+
+
+III / 5
+
+
+1st in Code Debugging
+
+
+17-09-2016
+
+
+KCG College of Technology
+
+
+
+
+
+19
+
+
+Naveen Karthick B
+
+
+III / 5
+
+
+Project Display
+
+
+17-09-2016
+
+
+KCG College of Technology
+
+
+
+
+20
+
+
+M.Punitha
+
+
+III / 5
+
+
+Paper presentation
+
+
+17-02-2016
+
+
+Hindustan university
+
+
+
+
+21
+
+
+M.Punitha
+
+
+III / 5
+
+
+Circuit grooming
+
+
+20-08-2016
+
+
+Valliammai engineering college
+
+
+
+
+22
+
+
+Rajarajan K
+
+
+III / 5
+
+
+Project Display
+
+
+10-09-2016
+
+
+SSN college of engineering
+
+
+
+
+23
+
+
+Mohamed Tabrez Saqib.U
+
+
+III / 5
+
+
+Project Presentation
+
+
+10-09-2016
+
+
+SSN College of Engineering
+
+
+
+
+24
+
+
+Rajkumar.T
+
+
+III / 5
+
+
+Project Display
+
+
+10-09-2016
+
+
+SSN college of engineering
+
+
+
+
+25
+
+
+S.Karthikeshwar
+
+
+IV/7
+
+
+Project Display/3rd Prize
+
+
+17.02.2016
+
+
+SSN College of Engineering
+
+
+
+
+26
+
+
+D.Vikram Narayanan
+
+
+IV/7
+
+
+Project Display/3rd Prize
+
+
+17.02.2016
+
+
+SSN College of Engineering
+
+
+
+
+27
+
+
+Sakthi Arun
+
+
+IV/7
+
+
+1st prize in paper presentation
+
+
+18.03.2016
+
+
+SMK Fomra Institute of Technology
+
+
+
+
+28
+
+
+Revathy.V
+
+
+IV/7
+
+
+2nd prize in paper presentation
+
+
+14.03.2016
+
+
+M.G.R.University
+
+
+
+
+29
+
+
+Ramya.A
+
+
+IV/7
+
+
+2nd prize in paper presentation
+
+
+14.03.2016
+
+
+M.G.R.University
+
+
+
+
+30
+
+
+Roja.R
+
+
+IV/7
+
+
+2nd prize in paper presentation
+
+
+14.03.2016
+
+
+M.G.R.University
+
+
+
+
+31
+
+
+Karthika.S
+
+
+II/ 3
+
+
+Participated in Technical Quiz.Epsilon 2k16 - EEE
+
+
+16.08.2016
+
+
+MSEC
+
+
+
+
+32
+
+
+Kiirthanaa.G
+
+
+II/ 3
+
+
+Participated in Technical Quiz.Epsilon 2k16 - EEE
+
+
+16.08.2016
+
+
+MSEC              
+
+
+
+
+33
+
+
+Monisha.S
+
+
+II/ 3
+
+
+Participated in Technical Quiz.Epsilon 2k16 - EEE
+
+
+16.08.2016
+
+
+MSEC              
+
+
+
+
+34
+
+
+Subaidha Begum R
+
+
+II/ 3
+
+
+Participated in Technical Quiz.Epsilon 2k16 - EEE
+
+
+16.08.2016
+
+
+MSEC              
+
+
+
+
+35
+
+
+Kiirthana
+
+
+II/3
+
+
+Cleared N5 level Japanese Proficiency test
+
+
+2016
+
+
+-
+
+
+
+
+36
+
+
+Shrinidhi C
+
+
+II/3
+
+
+Cleared N5 level Japanese Proficiency test
+
+
+2016
+
+
+-
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+2017-2018
+
+
+
+
+S.no
+
+
+Name of the Student
+
+
+Year/Sem
+
+
+Name of the Event
+
+
+Date
+
+
+Venue
+
+
+
+
+1
+
+
+Deepa R.
+
+
+III/6
+
+
+Paper Presentation
+
+
+06.03.2018
+
+
+SRM University
+
+
+
+
+2
+
+
+Niveditha. M
+
+
+III/6
+
+
+Paper Presentation
+
+
+17.03.2018
+
+
+Hidustan University
+
+
+
+
+3
+
+
+Deepika M
+
+
+III/6
+
+
+Paper Presentation
+
+
+17.03.2018
+
+
+Hidustan University
+
+
+
+
+4
+
+
+Meenaa R
+
+
+III/6
+
+
+Paper Presentation
+
+
+17.03.2018
+
+
+Hidustan University
+
+
+
+
+5
+
+
+Swetha S
+
+
+III/6
+
+
+Paper Presentation
+
+
+09.03.2018
+
+
+MIT, Chromepet
+
+
+
+
+6
+
+
+Aakash Chander P
+
+
+III/6
+
+
+Paper presentation-Second place
+
+
+06.03.2018
+
+
+SRM University
+
+
+
+
+7
+
+
+Mahalakshmi S
+
+
+III/6
+
+
+Paper Presentation
+
+
+09.03.2018
+
+
+MIT, Chromepet
+
+
+
+
+
+
+
+
+
+
+ SPORTS  
+2017-2018
+
+
+
+
+S.No
+
+
+Name of the Student
+
+
+Year/Sem
+
+
+Name of the Event
+
+
+Date
+
+
+Venue
+
+
+
+
+1.
+
+
+Punida priya
+
+
+III/6
+
+
+Third place in High Jump
+
+
+15.02.2018
+
+
+Anna University Zonal Sports Meet
+
+
+
+
+2
+
+
+Meena. R
+
+
+III/6
+
+
+First place  in Kho-Kho
+
+
+03.03..2018
+
+
+MSEC
+
+
+
+
+3
+
+
+Meena. R
+Shruthi G
+
+
+III/6
+
+
+First place in Kabadi
+
+
+06.03..2018
+
+
+MSEC
+
+
+
+
+4
+
+
+Meenu Priya
+
+
+III/6
+
+
+Second place in Discuss throw
+
+
+15.02.2018
+
+
+Anna university Zonal Sports Meet
+
+
+
+
+5
+
+
+Shruthi G
+
+
+III/6
+
+
+First place in Throw ball
+ 
+
+
+06.03..2018
+
+
+MSEC
+
+
+
+
+6
+
+
+Shruthi G
+
+
+III/6
+
+
+Second place in Javelin throw
+
+
+06.03.2018
+
+
+MSEC
+
+
+
+
+ 
+2016-2017
+
+
+
+
+S.No
+
+
+Name of the Student
+
+
+Year/Sem
+
+
+Name of the Event
+
+
+Year
+
+
+Venue
+
+
+
+
+1.
+
+
+Sakthi Arun G
+
+
+IV/7
+
+
+Third place in AOTS DOSAKI Mini marathon(5km)
+
+
+2016
+
+
+Marina Beach
+
+
+
+
+2.
+
+
+Lalitha S
+Hamsa L
+Latchana P
+Ramya K
+
+
+IV/7
+
+
+Runners in Track event
+
+
+2016
+
+
+Velammal Engg College
+
+
+
+
+ 
+
+
+ Professional Development 
+
+
+                                The Department strives to develop long Term relationships with Industries and market the Student Talents effectively. The Students are thus provided high level ‘Leads and Pathways’ that enable them to gain access to a broad range of ‘high potential’ and ‘hi-tech’ Career Opportunities and Placements. In a very short span of time since the Department was launched in our College, it has made a name for itself, among the Top few Colleges, at the University level, through Seminars, Symposia, Workshops, and Conferences and also through its performance in the Examination
+                            
+
+ The department conducts various events such as PRANAV (National Level Technical Symposium),WIRED (A Newsletter about the latest technological developments in Electronics & Communication) ,AVALANCHE (A one day technical seminar by Corporate employees and lecturers ) and many other events to improve the creativity of the students and enrich their professional skills. 
+
+
+                                The Curriculum adopted is of ‘Semester System’ and is spread over a period of four years; the Programme is affiliated to Anna University.
+                            
+
+  Distinguished Alumni  
+
+Vivek Koparthi, 2011 passed-out, was listed in 2017 Forbes list, under the category ‘30 under 30’ for his contribution to healthcare sector. As the co-founder of Neolight, he is associated with the development of a disruptive phototherapy technology to treat jaundice in infants.
+
+
+
+
+Akshaya Shanmugam, 2009 passed-out was listed in 2018 Forbes list, under the category ‘30 under 30’ for her contribution to healthcare sector. She is the CEO of Lumme Inc., a company which is working towards a solution for addictive behavior by combining wearable technology, machine learning, and behavioural psychology.
+
+
+
+
+
+
+
+
+ACADEMIC YEAR
+
+
+TOTAL NO OF STUDENTS
+
+
+NO OF STUDENTS PLACED
+
+
+NUMBER OF STUDENTS ADMITTED TO HIGHER STUDIES
+
+
+
+
+2015-2019
+
+
+128
+
+
+113
+
+
+3
+
+
+
+
+2014-2018
+
+
+133
+
+
+93
+
+
+10
+
+
+
+
+2013-2017
+
+
+133
+
+
+120
+
+
+16
+
+
+
+
+2012-2016
+
+
+129
+
+
+114
+
+
+11
+
+
+
+
+
+HIGHER STUDIES
+ 
+ 
+
+
+
+
+Sr. No. 
+
+
+Registration/ Enrollment No.of the student in your Institution
+
+
+Student Name
+
+
+Name of the  University/Institutions where selected for higher studies
+
+
+Year of admission in higher studies program
+
+
+
+
+1
+
+
+311514106110
+
+
+VENKATESWARAN S
+
+
+TECHNISCHE UNIVERSITAT ILMENAU
+
+
+2018
+
+
+
+
+2
+
+
+311514106029
+
+
+JAHNVI RAMACHANDRAN
+
+
+UNIVERSITY OF SOUTH CALIFORNIA
+
+
+2018
+
+
+
+
+3
+
+
+311514106109
+
+
+VARSHA BALAKUMAR
+
+
+IIT,MADRAS
+
+
+2018
+
+
+
+
+4
+
+
+311514106034
+
+
+KEERTHANA S V
+
+
+IIM, INDORE
+
+
+2018
+
+
+
+
+5
+
+
+311514106037
+
+
+KUMUTHA C.L
+
+
+THIAGARAJAR SCHOOL OF MANAGEMENT
+
+
+2018
+
+
+
+
+6
+
+
+311514106004
+
+
+S.V.AMBHARESH
+
+
+VELLORE INSTITUTE OF TECHNOLOGY
+
+
+2019
+
+
+
+
+7
+
+
+311514106007
+
+
+M.AVINASH KUMAR
+
+
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, DUBAI
+
+
+2019
+
+
+
+
+8
+
+
+311514106081
+
+
+V.R.SANJAY KRISHNA
+
+
+UNIVERSITY OF HOUSTON
+
+
+2019
+
+
+
+
+9
+
+
+ 311514106307
+
+
+HARIHARASUDHAN
+
+
+RAJALAKSHMI SCHOOL OF BUSINESS
+
+
+2019
+
+
+
+
+10
+
+
+311514106045
+
+
+M.MATHURI
+
+
+ESWARI ENGINEERING COLLEGE
+
+
+2019
+
+
+
+
+
+ 
+DISTINGUISHED ALUMNI
+
+
+
+
+NAME OF THE STUDENT
+
+
+BATCH
+
+
+NAME OF THE ORGANIZATION
+
+
+
+ 
+ 
+ 
+
+
+
+BHARAT KUMAR N S
+
+
+2009
+
+
+SCIENTIST-D, DRDO
+
+
+
+
+AKSHAYA SHANMUGAM
+
+
+2009
+
+
+CEO of Lumme Inc.,
+
+
+
+
+VIVEK KOPARTHI
+
+
+2011
+
+
+Co-founder of Neolight
+
+
+
+
+KRISHNA KUMAR
+
+
+2015
+
+
+AUDIO S/W ENGINEER, APPLE
+
+
+
+
+Prashanth
+
+
+2013
+
+
+Salesforce, US
+
+
+
+
+Ruwaid
+
+
+2013
+
+
+Arista Networks, Ireland
+
+
+
+
+Sadhana
+
+
+2013
+
+
+INTEL Corporation
+
+
+
+
+Ramya
+
+
+2013
+
+
+VISA Inc.,
+
+
+
+
+Nitya
+
+
+2013
+
+
+Amazon
+
+
+
+
+Gayathri
+
+
+2013
+
+
+CISCO Systems Inc.,
+
+
+
+
+Radhika
+
+
+2013
+
+
+PwC
+
+
+
+
+Krishnan
+
+
+2013
+
+
+Cerner Corporation
+
+
+
+
+Saai Krishnan
+
+
+2013
+
+
+Trimble Inc.,
+
+
+
+
+
+
+ENTREPRENEUR
+ 
+
+
+
+
+S.No
+
+
+Academic year
+
+
+Name of the Entrepreneur
+
+
+Type of Business started
+
+
+Type of Process/Product
+
+
+Company Name and Place
+
+
+
+
+1
+
+
+2018-2019
+
+
+Mr.K.Kishore
+
+
+Startup
+
+
+Product
+
+
+Missile Ingeniator
+Chennai
+
+
+
+
+2
+
+
+2017-2018
+
+
+Mr.S.Madan Kumar
+
+
+Startup
+
+
+Service
+
+
+iSPinnovate
+Chennai
+
+
+
+
+3
+
+
+2017-2018
+
+
+Mr.S.Sharath Kumar
+
+
+Startup
+
+
+Service
+
+
+iSPinnovate
+Chennai
+
+
+
+
+
+
+  MOU & Industry Interaction  
+Click here to view internship details
+
+
+
+
+
+SNO
+
+
+LIST OF COMPANY WITH WHICH MOU SIGNED
+
+
+STARTING YEAR
+
+
+DURATION
+
+
+
+
+1.     
+
+
+VI  MICRO  SYSTEMS,CHENNAI
+
+
+2011
+
+
+LIFETIME
+
+
+
+
+2.     
+
+
+SCIGENICS  LTD,CHENNAI
+
+
+2011
+
+
+LIFE TIME
+
+
+
+
+3.     
+
+
+MISSILE INGENIATOR,CHENNAI
+
+
+2019
+
+
+LIFE TIME
+
+
+
+
+4.     
+
+
+NEO LIGHT,PHOENIX
+
+
+2020
+
+
+LIFE TIME
+
+
+
+
+5.     
+
+
+MICROPIXEL CHENNAI
+
+
+2020
+
+
+LIFE TIME
+
+
+
+
+6.     
+
+
+TEKNA ,CHENNAI
+
+
+2020
+
+
+LIFE TIME
+
+
+
+
+7.     
+
+
+MPL SUB ASSEMBLIES ,CHENNAI
+
+
+2020
+
+
+LIFE TIME
+
+
+
+
+8.     
+
+
+NLTVC ,PENENG
+
+
+2014
+
+
+RENEWED FOR EVERY 3 YEARS
+
+
+
+
+9.     
+
+
+USM MALAYSIA
+
+
+2011
+
+
+RENEWED FOR EVERY 3 YEARS
+
+
+
+
+10.    
+
+
+MMU MALAYSIA
+
+
+2011
+
+
+RENEWED FOR EVERY 3 YEARS
+
+
+
+
+
+
+
+Faculty 
+
+
+
+
+
+
+
+
+S.No
+
+
+Name of the Faculty
+
+
+Qualification
+
+
+Designation
+
+
+Areas of Interest
+
+
+
+
+1
+
+
+Dr. K. UMARANI
+
+
+M.E.,Ph.D
+
+
+Professor & DEAN ACADEMICS
+
+
+Control Systems, Biomedical instrumentation
+
+
+
+
+2
+
+
+Mrs. SIJI SIVANANDAN
+
+
+M. Tech
+
+
+Associate Professor & HOD
+
+
+VLSI,Embedded systems
+
+
+
+
+3
+
+
+Dr.A. BABIYOLA
+
+
+M.E.,Ph.D
+
+
+Professor
+
+
+Communication and Netwoking,Adhoc Networks
+
+
+
+
+4
+
+
+Mr. S. BALASUBRAMANIAN
+
+
+M.E (Ph.D)
+
+
+Associate Professor
+
+
+Speech Processing,Embedded Systems
+
+
+
+
+5
+
+
+Mrs. N MEENAKSHI
+
+
+M.E (Ph.D)
+
+
+Associate Professor
+
+
+Antenna Wave Propagation,Digital Signal Processin
+
+
+
+
+6
+
+
+Dr. A. JOSEPH SATHYADAS ESRA
+
+
+M.Tech, Ph.D
+
+
+Associate Professor
+
+
+Digital Signal Processing,Speech Processing
+
+
+
+
+7
+
+
+Mr. MD NOORUZZAMAN KHAN
+
+
+M. Tech, M.B.A (Ph.D)
+
+
+Assistant Professor
+
+
+VLSI Low power Design
+
+
+
+
+8
+
+
+Mr. S. SATHEESH KUMAR
+
+
+M.E
+
+
+Assistant  Professor
+
+
+VLSI Low power Design
+
+
+
+
+9
+
+
+Mr. A. VELU
+
+
+M.E
+
+
+Assistant  Professor
+
+
+Digital Electronics,Electronic Circuits
+
+
+
+
+10
+
+
+Mrs..R.LAKSHMI
+
+
+M.E
+
+
+Assistant  Professor
+
+
+Digital Signal Processing,Digital Electronics
+
+
+
+
+11
+
+
+Mrs. S.SINDHU
+
+
+M.E
+
+
+Assistant  Professor
+
+
+VLSI,Digital Electronics
+
+
+
+
+12
+
+
+Mrs.S.SOWMYA
+
+
+M.E.,(Ph.D)
+
+
+Associate Professor
+
+
+Machine Learing,IOT
+
+
+
+
+13
+
+
+Mrs.G.BHARATHI
+
+
+M.E
+
+
+Assistant  Professor
+
+
+VLSI Design,Digital Electronics
+
+
+
+
+14
+
+
+Mr.R.VINOTHKUMAR
+
+
+M.E,M.B.A
+
+
+Associate Professor
+
+
+VLSI Design,Machine Learing,IOT
+
+
+
+
+15
+
+
+Mrs.S.M.JANANI
+
+
+M.E
+
+
+Assistant  Professor
+
+
+VLSI Design,Machine Learing,IOT
+
+
+
+
+16
+
+
+Mrs.R.SUBASHINI
+
+
+M.E
+
+
+Assistant Professor
+
+
+Wireless Communication, Machine Learing, IOT
+
+
+
+
+17
+
+
+Mr.G.ANNAMALAI
+
+
+M.E
+
+
+Assistant  Professor
+
+
+LIC,Image Processing
+
+
+
+
+18
+
+
+Dr.M.RAJENDRAN
+
+
+M.E., Ph.D
+
+
+Assistant Professor
+
+
+Electronic Circuits,Microprocessors and Microcontrollers,Adhoc Networks
+
+
+
+
+19
+
+
+Mrs.K.SASIKALA
+
+
+M.E
+
+
+Assistant  Professor
+
+
+VLSI,Communication Systems
+
+
+
+
+20
+
+
+Mrs.P.SARANYA
+
+
+M.E
+
+
+Assistant Professor
+
+
+IOT,Microcontrollers ,Digital Electronics
+
+
+
+
+21
+
+
+Mrs.G.BHARGAVI
+
+
+M.E
+
+
+Assistant Professor
+
+
+Communication,Signal Processing
+
+
+
+
+22
+
+
+Mr.R.ARIF
+
+
+M.E
+
+
+Assistant Professor
+
+
+VLSI Design
+
+
+
+
+23
+
+
+Mrs.S.HEMAVATHI
+
+
+M.E
+
+
+Assistant Professor
+
+
+Communication Systems
+
+
+
+
+24
+
+
+Mrs.N.SELVARANI
+
+
+M.E
+
+
+Assistant Professor
+
+
+Embedded Systems
+
+
+
+
+25
+
+
+Mrs.M.GUNVATHI
+
+
+M.E
+
+
+Assistant Professor
+
+
+Wireless Communication and Antenna Design
+
+
+
+
+26
+
+
+Mrs.S.MAHALAKSHMI
+
+
+M.E
+
+
+Assistant Professor
+
+
+IOT,Microcontrollers ,Digital Electronics
+
+
+
+
+27
+
+
+Dr.T.SIVAKAMI
+
+
+M.E.,Ph.D
+
+
+Assistant Professor
+
+
+Wireless Communication and Antenna Design
+
+
+
+
+28
+
+
+Mrs.J.NITHYA
+
+
+M.E
+
+
+Assistant Professor
+
+
+Wireless Communication and Antenna Design
+
+
+
+
+29
+
+
+Mrs.T.DEVI
+
+
+M.E
+
+
+Assistant Professor
+
+
+Embedded Systems and VLSI Design
+
+
+
+
+30
+
+
+Dr.C.SANDHYA
+
+
+M.E., Ph.D
+
+
+Assistant Professor
+
+
+ Bio Signal Processing, Machine  Learning, Medical Image Processing
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 363, Arcot Road, Kodambakkam, Chennai - 24 
+
+
+
+All Rights Reserved
+
+
+

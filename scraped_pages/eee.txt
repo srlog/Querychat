@@ -1,0 +1,2739 @@
+
+
+ Electrical and Electronics Engineering 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MSEC
+
+
+Contact Us At :9790821869 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+ ABOUT 
+
+ Vision and Mission 
+ Management 
+ Administration & Faculty
+ Statutory Cells/ Committees 
+  Admissions
+  Fees 
+
+
+
+ DEPARTMENTS 
+
+ Civil Engineering 
+ Computer Science and Engineering 
+ Electronics and Communication Engineering 
+ Electrical and Electronics Engineering 
+ Information Technology 
+ Mechanical Engineering 
+Artificial Intelligence and Data Science 
+ Humanities and Science 
+
+
+
+ WHY MSEC 
+
+ Campus Life 
+ Counselling  
+ Accolades  
+ Gallery 
+
+
+
+ INFRASTRUCTURES 
+
+ Laboratories 
+ Auditoriums 
+ Library 
+
+
+ RESEARCH 
+ PLACEMENTS 
+ NIRF 
+ Mandatory Disclosure 
+ CONTACT US 
+
+
+
+
+
+
+
+
+ Electrical and Electronics Engineering 
+
+  Accredited by the National Board of Accreditation for 3 years from the Academic Years 2024-2025 to 2026-2027 i.e. upto 30.06.2027   
+
+
+
+
+
+
+ About the Department 
+ Infrastructure 
+ Association & Activities
+ Academics 
+ Innovations in Teaching 
+ Events 
+ Achievements 
+ Faculty 
+ Sports 
+ Alumni 
+ R & D 
+
+
+
+
+
+
+
+Click to download the Department Brochure
+Click here for Admission Enquiry
+
+
+
+
+
+
+
+
+The Electrical and Electronics Engineering Department of MSEC commenced in the year 2003. Under the erudite leadership of Mrs. K.RAJESWARI, Head of the Department along with the efficient faculty members and excellent students, the department has won laurels to the college.
+The department lays emphasis on equipping its students with conceptual knowledge and comprehensive technical training to meet the requirements of the industries. The college gives importance for practical training in latest developments & effective student participation in many activities. The events are planned & organized in a manner to improve the overall personality of the students in various fronts
+
+Vision, Mission, PEOs & PSOs
+ 
+Vision:
+To impart qualitative Education, to produce competent graduates in Electrical and Electronics Engineering with innovative research abilities and best suited to meet the industrial needs.
+ 
+Mission:  
+M1: To provide quality education to students in the field of Electrical and Electronics Engineering.
+M2: To inculcate innovative skills and improve research capabilities to bridge the gap between academia and industry.
+M3: To develop social responsibility with moral and professional ethical values.
+ 
+Program Educational Objectives (PEOs):          
+PEO1: Provide adequate knowledge to analyze power electronics drives, power systems and work with inter-disciplinary groups.
+PEO2: Develop skills needed to work on computational platform and software applications.
+PEO3: Encourage the ability to design, analyze and build electrical and electronics systems for the present and also the future.
+PEO4: Promote managerial skills and inculcate professional ethics.
+ 
+Program Specific Outcomes (PSOs):
+PSO1: Able to understand the principles and working of electrical components, Circuits, Systems and Control that are forming a part of power generation, transmission, distribution, utilization, conservation and energy saving.
+PSO2:Able to apply mathematical methodologies to solve problems related with electrical engineering using appropriate engineering tools and algorithms.
+PSO3:Able to use knowledge in various domains to identify research gaps and hence to provide solution which leads to new ideas and innovations.
+
+Program Outcomes 
+The graduates in Electrical & Electronics Engineering will:
+
+
+PO1 : Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals and engineering specialization to the solution of complex engineering problems.
+PO2 :Problem analysis: Identify, formulate, review, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3 :Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4 :Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5 :Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+PO6 :The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO7 :Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8 :Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9 :Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10 :Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11 : Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12 :Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+
+
+Course Outcomes
+Click for 2021 Regulation
+Click for 2017 Regulation
+Click for 2013 Regulation
+
+Click here for 3 years Placement Data 
+
+
+
+The department has excellent laboratory infrastructural facilities and the Students are trained in the following laboratories to enhance their practical skills.
+EEE department comprises of major spacious full-fledged labs.
+• Electrical Machines Lab-I • Electrical Machines Lab-II• Control& Instrumentation Lab• Electronic devices & Circuits lab• Linear Integrated Circuits Lab • Renewable Energy System Lab• Power Electronics Lab• Power system Simulation Lab
+ 
+ 
+
+
+
+
+S.No
+
+
+Name of the laboratory
+
+
+Equipments
+
+
+
+
+1.       
+
+
+Electrical Machines Lab-I
+
+
+1.DC Series, shunt & compound  Motor
+2. DC Series, shunt & compound  generator
+3. Three phase &Single  phase Transformer
+
+
+
+
+2.       
+
+
+Electrical  Machines Lab II
+
+
+1. Three phase   Alternator
+2.Single phase induction  motor
+3.Three phase  slip ring and squirrel cage induction motor
+4.Three phase   Synchronous motor
+
+
+
+
+3.       
+
+
+Control & Instrumentation lab
+
+
+1.Single phase Energy meter
+2.Single phase transformer
+3. Flow  measurement
+4. Temperature  transducer  using RTD  DC generator  and Motor
+5.Matlab Software
+6. AC and DC   servomotor
+ 
+
+
+
+
+4.       
+
+
+Electronic Devices and circuits Lab
+
+
+1.Optical    transducer
+2.CRO
+3. AFO
+4. Dual RPS
+5.Matlab   software
+6.Orcad  software
+7.AC & DC  Transient kit
+
+
+
+
+5.       
+
+
+Linear Integrated Circuits Lab
+
+
+1.Digital IC  trainer kit
+2.Analog and Digital IC   tester
+3.CRO
+4.AFO
+
+
+
+
+6.       
+
+
+Renewable Energy Systems  Lab
+
+
+1.PV Panel
+2.Wind Generator
+3.Matlab Software
+4.Battery setup
+
+
+
+
+7.       
+
+
+Power Electronics Lab
+
+
+1.Single and three phasePWM inverter
+2. R,RC, UJT  firing
+3. Single and three phase fully controlled converter
+
+
+
+
+8.       
+
+
+Power system Simulation Lab
+
+
+1. Matlab software
+2.MiPower   software
+
+
+
+
+
+
+
+
+
+
+ETA (ELECTRO TECHNOCRATS ASSOCIATION) 
+The Electrical Technocrats Association (ETA) of our Department is active throughout the year by conducting various technical activities. The Electrical Technocrats Association (ETA) of the department conducts various technical events to facilitate the students to get updated with latest technical developments.ETA has come a long way from its humble beginnings, 6 years ago . As a highlight of that ETA is publishing a technical Newsletter twice in a year  which brings in technical articles contributed by both staff members and students.
+
+  Click to view the Latest Department Newsletter 
+Association Events 
+
+
+
+
+Sl.
+No.
+
+
+Activity
+
+
+Resource Person/Participant
+
+
+Date
+
+
+
+
+1.
+
+
+Lecture on Entrepreneurship
+
+
+Mr. Tamil Venthan Mr. Boniface
+Mr. Surya Prakash Mr. Shakeel Ahamed
+
+
+07.09.2019
+
+
+
+
+2.
+
+
+Lecture on Career Guidance
+
+
+Mr. Mayukh Kapoor Mr. Gurunandh
+Ms. Saranya
+
+
+14.09.2019
+
+
+
+
+3.
+
+
+Lecture on Career Guidance
+
+
+Swami Apavargananda
+
+
+10.01.2020
+
+
+
+
+4.
+
+
+Lecture on Career Guidance
+
+
+Mr. Praveen Radhakrishnan
+
+
+13.02.2020
+
+
+
+
+5.
+
+
+Lecture on Career Guidance
+
+
+Mr. Chandrakant Mr. Kolahalan
+Mr. Udhaya Raghavan
+
+
+07.03.2020
+
+
+
+
+6.
+
+
+Young Scientists Convention
+
+
+Mr. Vinodh
+
+
+14.03.2020
+
+
+
+
+7.
+
+
+Chat on Placements and Preparations
+
+
+Mr. G.S. Balaji Mr. S. Balaji
+Ms. Anamika Reddy Mr. N. Badrinathan Mr. Azar Mohammed
+
+
+02.05.2021
+
+
+
+
+8.
+
+
+Chat on Prospects in Core Engineering and Higher Studies
+
+
+Ms. Sindhuja Vijayaraghavan, Mr. Hariharan Ragothaman, Mr. Bharatwaj Gowrishankar
+
+
+18.06.2021
+
+
+
+
+9.
+
+
+Lecture on Scope and Prospects of Entrepreneurship
+
+
+Mr. Kishore Kumaran
+
+
+09.09.2021
+
+
+
+
+10.
+
+
+Culture & Heritage Forum Event
+
+
+Students from II and III EEE
+
+
+29.09.2021
+
+
+
+
+11.
+
+
+Culture & Heritage Forum Event
+
+
+Students from II, III and IV EEE
+
+
+09.04.2022
+
+
+
+
+12.
+
+
+Placement Preparation for Current times
+
+
+Mr. R. V. Prakash
+
+
+21.03.2023
+
+
+
+
+13.
+
+
+Lecture on Mental Health and Youth Empowerment
+
+
+SMILEY Foundation
+
+
+21.04.2023
+
+
+
+
+14.
+
+
+Chat on Scope of Research
+
+
+Mr. Raghavan Kumar
+
+
+12.05.2023
+
+
+
+
+15.
+
+
+Young Scientists Convention
+
+
+Students of EEE
+
+
+13.05.2023
+
+
+
+
+16.
+
+
+Independence Day Celebration
+
+
+Students of EEE
+
+
+16.08.2023
+
+
+
+
+17.
+
+
+Event on Environment Awareness
+
+
+Walk for Plastics
+
+
+24.08.2023
+
+
+
+
+18.
+
+
+Teachers Day Celebration
+
+
+Students of EEE
+
+
+05.09.2023
+
+
+
+
+19.
+
+
+Kalam’s Birthday Celebration
+
+
+Students of EEE
+
+
+14.10.2023
+
+
+
+
+20.
+
+
+Arduino Workshop
+
+
+II and III EEE
+
+
+21.10.2023
+
+
+
+
+21.
+
+
+Robotics Competition
+
+
+College level event
+
+
+01.11.2023
+
+
+
+
+22.
+
+
+Lecture on Entrepreneurship
+
+
+Mr. Boniface
+
+
+10.02.2024
+
+
+
+
+23.
+
+
+Robo Soccer
+
+
+College level event
+
+
+16.02.2024
+
+
+
+
+24.
+
+
+Lecture on Introduction to Electric Vehicle Architecture
+
+
+Mr. Meenakshi Sundaram
+
+
+22.03.2024
+
+
+
+
+25.
+
+
+Lecture on Sustainability and Environment
+
+
+Mr. Vijaya Sarathi
+
+
+22.03.2024
+
+
+
+
+
+
+ Academics 
+
+UNIVERSITY RANKS: 
+The subjects that constitute the curriculum give the students a strong foundation in Electrical and Electronic fields. The department lays emphasis on knowledge-based training. The faculties not only empower the students with conceptual depth but also enable them to meet the requirements of the industries. Even when subjected to such frequent, time consuming events throughout the year, the students continue to impress in the academic field. They have consistently maintained their academic profile to match any other top ranking university. It is notable that the students have performed consistently in the University examination.
+
+ 
+
+
+
+
+
+S.NO
+
+
+BATCH
+
+
+NAME OF THE STUDENT
+
+
+UNIVERSITY RANK
+
+
+
+
+1
+
+
+2003-2007
+
+
+R.SREEPRADHA
+
+
+22ND RANK
+
+
+
+
+2
+
+
+2004-2008
+
+
+T.A.KISHORE KUMAR
+STEFFI GRAFF EDWARD
+
+
+17th rank
+34th rank
+
+
+
+
+3
+
+
+2005-2009
+ 
+
+
+V.KARTHIGA
+DIVYA PRABHAKAR 
+ASWANI BERIGAI  
+
+
+39TH RANK
+40TH RANK
+45TH RANK
+
+
+
+
+4
+
+
+2006-2010
+ 
+
+
+MARY INFANTADEVI
+JIYO .S.ATHEREYA
+KALAIVANI.P
+KARTHIKA.T        
+
+
+15TH RANK
+20TH RANK
+42ND RANK
+44TH RANK
+
+
+
+
+5
+
+
+2007-2011
+
+
+PRADEEBHA.P.
+MANOJKUMAR.S
+
+
+40TH RANK
+46TH RANK
+
+
+
+
+6
+
+
+2008-2012
+ 
+
+
+V.NIRANJANA 
+M.PRIYAKEERTHNA
+
+
+29TH RANK
+35TH RANK
+
+
+
+
+7
+
+
+2009-2013
+ 
+
+
+R.MAYUKHKAPOOR
+N.MATHANGI
+R.SOWMYA
+
+
+32ND RANK
+48TH   RANK
+49TH RANK
+
+
+
+
+8
+
+
+2010-2014
+ 
+
+
+PRASANNA.S
+DHARSHANA RAMESH
+PREETHI CC 
+VIVEK M S
+AMIRTHA BENJAMIN
+VIGNESH S
+SUJATHA K
+DANIEL ASPIN GUNARAJ J
+SANJAY RAAM M
+
+
+12TH RANK
+28TH RANK
+28TH RANK
+38TH RANK
+41ST RANK
+44TH RANK
+45TH RANK
+48TH RANK
+48TH RANK  
+
+
+
+
+9
+
+
+2011-2015
+ 
+
+
+APPARNAA V
+DEEPIKA V
+YASASWINI M
+PADMA SHRUDTHI C
+SUDHARSAN K
+
+
+40TH RANK
+46TH RANK
+48TH RANK
+49TH RANK
+49TH RANK
+
+
+
+
+10
+
+
+2012-2016
+
+
+KEERTHIGA.S 
+GURUNANADH.V.S
+KAMALESHWAR .R
+SRIVATS ATHINDRAN .N
+
+
+22ND RANK
+33RD RANK
+43RD   RANK
+49TH RANK
+
+
+
+
+11
+
+
+2013-2017
+ 
+
+
+DEVI PRIYA.A
+MURALIKRISHNAN H 
+SUPRAJA S K
+ABHINAV B 
+POORANI .H
+DHIVYA.A 
+
+
+23RD RANK
+25TH RANK
+28TH   RANK
+32ND  RANK
+37TH RANK
+41ST RANK
+
+
+
+
+12
+
+
+2014-2018
+
+
+VASUDHARINI S
+THARANI M
+ABINAYA P
+SAKTHIVEL R
+VENKAMALI S P
+NILOFUR NISHA P M
+VIMAL RAJ E
+
+
+9TH RANK
+11TH RANK
+19TH RANK
+25TH RANK
+27TH RANK
+35TH RANK
+39TH RANK
+
+
+
+
+13
+
+
+2015-19
+
+
+R.DEEPAK KUMAR
+P.AISHWARYA
+
+
+7th   Rank 
+21st Rank
+
+
+
+
+14
+
+
+2016-20
+
+
+SANJANA  S
+SANDHYA MOHAN
+BADRINATHAN N
+
+
+7th rank
+11 th rank
+11 th rank
+ 
+
+
+
+
+15
+
+
+2017-21
+
+
+HEMALATHA R           
+AKSHAYA R     
+HARINI R K
+
+
+5th rank
+12th rank
+25th rank
+
+
+
+
+16
+
+
+2018-22
+
+
+MANASHA KL
+PRIYANKA BALAJI
+
+
+15TH RANK
+21ST RANK
+
+
+
+
+
+
+
+  Innovations in Teaching 
+ NPTEL VIDEO LINK FOR POWER  ELECTRONICS 
+Video 1 Video 2
+
+CIRCUIT ANALYSIS VIDEO LECTURES 
+Video 1
+
+VIDEO LECTURES - DLC, MPMC, DEA 
+Video 1
+ 
+Course Material - Sample
+
+Question Paper - Sample
+
+Question Bank - Sample
+
+
+ 
+Digital Logic Circuits Lecture 21.5 Universal Shift Registers 
+ 
+
+
+Use of modern teaching aids like LCD projectors are usually employed in classrooms and other student learning environments.
+Faculties share Academic study material using digital library
+Department conducts Seminar, workshops, expert talks and Industrial visits on every semester
+Department has introduced Mini projects every semester in the curriculum
+Students are encouraged to participate National and Internal conferences in coordination with Faculty members
+Faculty members use digital library and other open source platforms such as NPTEL video lectures to make the subject easy to understand
+Faculty members are encouraged to participate in short term courses, staff development programs and workshops on advanced topics to keep pace with the advanced level of knowledge and skills. Over the past years, Faculty members have been participating/ presenting papers in National / International conferences and publish their articles to enrich their knowledge
+Faculty utilize department library as well as College main library for reference
+Currently the library holds over 31405 volumes, 10653 titles, 1840 CDs, Newspapers and business magazines for faculty reference.
+Main library holds 4512 volumes of Electrical and Electronics Engineering books under 1549 titles.
+Library has state of art digital library, E Learning Centre, Video Conference Room, , Students Reading Room, Staff Reading room, and Books & Reference Section, Circulation Counter, Journals/Magazines and Newspaper Section are made available in the library building
+
+
+
+
+GUEST LECTURES
+Guest lectures are organized by the department to create an exposure to the students regarding the ongoing developments in various domains in electrical engineering. The topics include
+
+Internet Of Things
+Nano Technology
+Electrical and Electronics Calibration and Automation
+Electric vehicles and its interaction with power grid
+Robotics
+Industrial Automation
+PLC SCADA & DC Drives
+
+ 
+
+INDUSTRIAL VISIT
+The students of II, III & IV year are sent for Industrial Visits to have an exposure to the state of art facilities pertaining to their ongoing curriculum for the betterment of their understanding at various organizations like ISRO, BHAVINI, SUBSTATION, POWER PLANT, SWITCH GEAR MANUFACTURING etc.
+
+ 
+ 
+ECUBE  -  A week of E3 – Enrichment, Enhancement, Empowerment. These, in a nutshell, are the focus areas of our week-long value-addition exercises for students to be conducted in the month of July, for the II, III and IV year  students of our college. Technical Seminars in topics that are an extrapolation of the curriculum will be presented by students. Students will also present their Mini-Projects and will cover all aspects of engineering, right from planning and analysis. This is an exercise aimed at enriching the knowledge and skills of the students.
+A student at the crossroads of life must be guided and presented with options in order to make informed decisions about their careers. Career guidance and counseling activities have been planned to enhance the decision-making ability of the students at one of the most crucial junctures of their lives. Participating in group discussions and training in facing interviews are two essential skills that must be acquired by all students. Group Discussions and Mock Interviews have been organized to empower the student.
+
+ 
+
+ 
+CONFERENCE:
+
+The Department of EEE was the first to organize the International conference of Meenakshi Sundararajan Engineering College, ICOBIAHC ’09, a three day (6th August to 8th August) international event. We received nearly hundred and twenty papers of which forty papers were short-listed after proper review by the technical panel and were scheduled under six sessions. Our panel members and delegates were from India and from foreign countries like USA, UK, Turkey, Australia, Korea and Malaysia. The best presented papers of the conference were published in leading International Journals
+Multi-disciplinary international conference on solar-energy 2012
+National Conference on Technological Innovations in Electrical Engineering [NCTIEE] on 18.03.2017
+National Conference on “Recent Trends in Electrical Engineering: on 9.03.18
+
+ 
+ 
+TECHNICAL SEMINAR:
+                  The one day technical seminar titled VIDYUTH,  adaylong event which attempts to provide all round development to the students. Various speakers from industries  such as TNEB, VI Microsystems, Robert Bosch, ETS, Alstom, BHAVINI  etc..and from institutions such as Anna University, SRM university  are invited to give lectures.
+ 
+ 
+
+SYMPOSIUM
+Every year, the event most anticipated for by the students, the technical Symposium EPSILON is conducted in an extravagant manner. It is a phenomenal technical endeavor and the ultimate quencher for limitless thirst for knowledge .The event sees an overwhelming number of participants from various colleges around the city. The symposium is a grand success with a turnover of 500+  students from other colleges and an eye-opener for the students in the fields of technical developments
+
+
+
+
+YEAR
+
+
+ THEME
+
+
+
+
+2009
+
+
+LEONARDO DA VINCI
+
+
+
+
+2010
+
+
+ROBOTICS
+
+
+
+
+2011
+
+
+ENGINEERING FROM ANCIENT TIMES
+
+
+
+
+2012
+
+
+EPSILON
+
+
+
+
+2013
+
+
+WAR OF CURRENTS
+
+
+
+
+2014
+
+
+ENVISION
+
+
+
+
+2015
+
+
+OBSESSION- AN UNQUENCHABLE ZEAL
+
+
+
+
+2016
+
+
+MAGNUM OPUS
+
+
+
+
+2017
+
+
+IGNOS
+
+
+
+
+2018
+
+
+GRON-EL
+
+
+
+
+
+
+
+ACHIEVEMENTS
+
+
+
+
+S.no
+
+
+Name of the student
+
+
+Year/Sem
+
+
+Name of the event 
+
+
+Date
+
+
+Venue
+
+
+
+
+1.       
+
+
+KEERTHANA NARAYANAN
+NISHA.B
+AISWARYA.P
+
+
+VI
+
+
+Won first prize in Paper presentation
+on
+Wireless power Theft detection
+
+
+28/2/2018
+
+
+Panimalar Engineering College
+
+
+
+
+2.       
+
+
+M.RAMYA
+
+
+IV
+
+
+Paper presentation
+on
+Microelectro Mechanical Systems(MEMS)
+
+
+25/01/2018
+
+
+MIT, Chennai
+
+
+
+
+3.       
+
+
+BHUVANESH,
+T.ADITHYA
+
+
+ 
+
+
+Paper Presentation on
+Conveyor Automation
+
+
+08/03/2017
+
+
+AGNI College of Engineering &Technology
+
+
+
+
+4.       
+
+
+B.NISHA
+N.KEERTHANA
+
+
+IV
+
+
+Paper presentation
+on
+Bio-wearable sensors
+ 
+
+
+04/03/2017
+
+
+ 
+ 
+MIT, Chennai
+
+
+
+
+5.       
+
+
+BHUVANESH
+NALRUTHRAN
+
+
+IV
+
+
+Paper presentation
+on
+Pup scanner implementation in mobile phone
+
+
+04/03/2017
+
+
+ 
+MIT,Chennai
+
+
+
+
+6.       
+
+
+DEEPAK KUMAR
+BHARATHYKKANNAN
+AJAIKIRAAN
+ 
+
+
+IV
+
+
+Paper presentation
+on
+Ring sensor
+ 
+
+
+ 
+ 
+04/03/2017
+
+
+ 
+ 
+ 
+MIT,Chennai
+
+
+
+
+7.       
+
+
+P.SRIDHAR
+THANGADURAI
+PRASANNA
+
+
+VII
+
+
+Project presentation
+On
+Maximum power point tracking solar using reference panel
+ 
+ 
+
+
+30/07/2016
+
+
+Velammal Institute of technology
+Chennai
+
+
+
+
+ 
+
+Sanjeeth, Srikanth.G, Raghavendranof(2004-2008) batch have won cash prize of Rs.25,000/- in a national level engineering students design contest Conducted by Lucas – TVS by presenting a project on “Remote Multi – channel scanning and processing of sensors”.
+Pranavamoorthy, N.Sandeepof (2005-2009)batch have Won the firstprize of Rs 40,000 /- in the Motorola Scholar Programme– A national level competition, Instituted by FAER and sponsored by Motorola Foundation, USA, for the project “Wireless control of irrigation system operating from 3Φ induction motor fed by 1Φ supply”.
+HariRaghav, of (2009-2013)batch has Won the Second prizein the CODE VITA-The TCS Coding Contest on 03.09.2012 held at TCS SahyadriPark ,Pune.
+Ashwinkumar , S.Srikrishna , J.Daniel Aspinof (2010-2014) batch have won the fourthprize for the project titled "DTMF BASED ROBOT CONTROL", on 28.08.12 in the Project Display SSN College of Engineering- EUPRAXIA-2012
+Nivedha of (2009-2013) batch, has Won the First prize in the Paper Presentation in National Level Technical Symposium held at St Josephs College of Engineering on 29.09.12.
+M.BalajiVenkatesh, &S.krithika, of (2010-2014) batch had done their final year project titled “Simulation of Improved Double Series resonant DC – DC Converter” in University of Science Malaysia under the guidance of Dr.ShahidIqbal, Senior Lecturer in USM.
+Department feels delighted about the students of (2012-2016) batch who have successfully set the college BELL programmed for the regular college timings and for the examination. They have also developed an alarm to indicate the entry of persons in the library.
+Murali Krishnanof (2013-2017) batch has received NIQR – T.S.Krishna Student award for Best paper Presentation on the topic ‘’SKILL INDIA FOR GLOBAL SUSTAINABLEQUALITY ‘’and got published in Quality and reliability journalVol XIII-no .2 , 2016.
+ Vasudharini and D. Praveenof (2014-2018) batchbagged the first place in The Big Idea contest-2k17 and won a host of prizes, including a mentorship certificates exclusive for Cognizant.
+
+
+
+Faculty 
+
+
+
+
+
+
+S.No
+
+
+NAME
+
+
+QUALIFICATION
+
+
+DESIGNATION
+
+
+AREAS OF INTERESTS
+
+
+
+
+1
+
+
+Mrs. K.RAJESWARI
+
+
+M.E
+
+
+HOD & Associate Professor 
+
+Power Electronics
+
+
+
+2
+
+
+Dr.R.MAHALAKSHMI
+
+
+ME., Ph.D
+
+
+Professor
+
+Embedded systems based robotics, IOT, Renewable energy sources
+
+
+
+3
+
+
+Mr.V.N.SRIRAM
+
+
+M.E
+
+
+ Associate Professor  
+
+Bio Engineering 
+
+
+
+4
+
+
+Mrs.N.V. HARITHA
+
+
+M.TECH (Ph.D)
+
+
+Associate Professor
+
+Power Electronics,  Image processing
+
+
+
+5
+
+
+Dr. K. KUMARASAMY
+
+
+M.E., Ph.D
+
+
+Associate Professor
+
+Voltage stability using FACTS, Renewable Energy sources, Electric vehicle
+
+
+
+6
+
+
+Mrs. T. VANATHI
+
+
+M.E
+
+
+Assistant Professor
+
+Control Systems, Signal Processing, Bio Engineering
+
+
+
+7
+
+
+Mrs. G.GAYATRI 
+
+
+M.E
+
+
+Assistant Professor
+
+Power Electronics and Drives
+
+
+
+8
+
+
+Mr. S.MANIKANDAN
+
+
+M.E.,(Ph.D)
+
+
+Assistant Professor
+
+Renewable Energy Sources , Electric Vehicle,Machine learning
+
+
+
+9
+
+
+Mr.P. PARASURAMAN
+
+
+M.E
+
+
+Assistant Professor
+
+Power Systems, Electrical Machines, Control Engineering 
+
+
+
+10
+
+
+Mr. K.  BHASKER
+
+
+M.E
+
+
+Assistant Professor
+
+Power systems, Electrical machines, Control Engineering 
+
+
+
+11
+
+
+Dr.S.B.SIVASUBRAMANIYAN
+
+
+M.E.,Ph.D 
+
+
+Assistant Professor
+
+Bio-Inspired Algorithms, Evolvable Hardware, Evolutionary Computation, Computational Intelligence.
+
+
+
+12
+
+
+Dr. A.PARASURAM
+
+
+M.E., Ph.D
+
+
+Assistant Professor
+
+Power system, Power electronics 
+
+
+
+13
+
+
+Dr.R.MAYA
+
+
+ME., Ph.D
+
+
+Assistant Professor
+
+Power Electronics and drives , Control Systems and Matlab
+
+
+
+14
+
+
+Mr.N. SHYAM SUNDAR
+
+
+ME., (Ph.D)
+
+
+Assistant Professor
+
+High Voltage Engineering, Battery Management Systems, Power Electronics  And Renewable Energy Sources
+
+
+
+Click for Faculty Details for the previous 3 academic years
+
+
+
+RESEARCH AND CONSULTANCY WORK
+The department has been actively involvedfor installing solar energy generation in our institution in which 3 numbers each 5KW SOLAR POWER PLANTS has been erected and commissioned on the roof top of the CIVIL engineering block. This plant has been built with the approval of MNRE/GOV. of India at a total cost of RS23.51 lakhs and funded partially by GOVT. OF INDIA/MNRE/NEWDELHI we have received RS7,12,800 as CENTRAL FINANCIAL AID (CFA). It comprises poly crystalline solar PV power plant, thin film and mono crystalline power plants. Research work is still carried from the time of installation.
+The energy generated is used in THIRD FLOOR Civil Block Class rooms, SM lab GROUND FLOOR/CIVIL BLOCK and First floor in main block/MSEC.
+SOLAR PROJECTS
+
+List of Projects completed in R& D lab 
+ 
+
+
+
+
+S.No. 
+
+
+Title of Project 
+
+
+Project members 
+
+
+Supervisor
+
+
+Duration
+
+
+
+
+1.
+
+
+ESP32 Based Computational Logic for Obtaining Maximum Power From the Solar Panel
+
+
+V. Raja,             
+E. Mithya,        
+O. Haresz Jose
+
+
+Dr.S. B. Sivasubramaniyan
+ 
+
+
+Dec 2022 – April 2023
+ 
+
+
+
+
+2.
+
+
+Design and Implementation for Switch Matrix for PV Array to Mitigate Partial Shading
+ 
+
+
+S. Pratheep,      
+G. S. Yazhini
+K. R. Iswarya
+
+
+Dr.S. B. Sivasubramaniyan
+ 
+
+
+Dec 2022 – April 2023
+ 
+
+
+
+
+3.
+
+
+Smart Panel implemented by Switch Matrices
+
+
+ N. Deepak Anand,
+Mohammed Nadheem Fazil.
+
+
+Mr.S. B. Sivasubramaniyan
+ 
+
+
+ Feb2022 – July 2022
+
+
+
+
+4.
+
+
+Implementation of a Digital Substation Using IEC 61850 Station Bus
+
+
+Brain Samuel Alfred,   
+Indhar R.,
+ Ponn Ashok R.  
+
+
+Mr.S. B. Sivasubramaniyan
+ 
+
+
+Dec 2020 – April 2021
+ 
+
+
+
+
+5.
+
+
+Traffic Signal Optimization using Particle Swarm Optimization
+
+
+R. Raj Surya,
+S. Rahul,
+G. Padma Bhushan,
+G. S. Balaji.
+
+
+Mr.S. B. Sivasubramaniyan
+
+
+Dec 2019 – April 2020
+ 
+
+
+
+
+6.
+
+
+Load Management in thin film solar panel
+
+
+Ramanathan
+Pradeep.B
+Yuvaraj.S
+
+
+Mrs.Rooba
+
+
+Dec 2017 – April 2018
+
+
+
+
+7.
+
+
+ Maximum Power Point Tracking Solar Using Reference Pane
+ 
+
+
+Thangadurai M
+Prasanna Kumar
+Sridhar. P
+
+
+Mrs.Rooba
+
+
+Dec 2016 – April 2017
+
+
+
+
+8.
+
+
+Automated Load Managemnt System For Maximum Utilization of PV Panel
+
+
+Jagadeesh.S
+Hari Hara SubramaniaN.T
+Prakash Raj. S
+
+
+Mrs.Rooba
+
+
+Dec 2014 – April 2015
+
+
+
+
+9.
+
+
+Closed loop load management system for optimum utilization of PV system based on silicon reference cell
+
+
+Sanjay Raam
+Ganesan
+Bharath Kumar.M.M
+
+
+Mr.S. B. Sivasubramaniyan
+
+
+Dec 2013 – April 2014
+
+
+
+
+
+ 
+
+Sandhya of (2008-2012) batch has presented a paper titled “Recycling of energy by the utilization of piezoelectric crystal and a microcontroller” in the “INTERNATIONALCONFERENCE ON ENVIRONMENTAL AND COMPUTER SCIENCE-(ICECS) 2011”.
+S, Sriram.M&BalajiVenkateshA.M of (2010-2014) batch have Won the Third prize for the paper titled“Design of Charging Unit for Electric Vehicles by using “Solar power and control” using ARDUINO in the National Conference at Veltech Hi-tech College of Engineering.
+Daniel Aspin ,G.S. Bharatwaj, &Deepak.K.Sriram of (2010-2014) batch have won First prize for the paper  titled “Robot for Disabled ” on 13.09.2013 in the  National Conference at Veltech College of  Engineering
+S.Bharatwaj, S.Prasanna ,R.Ramakrishnan, M.Sanjayram, &S.Vignesh of  (2010-2014) batch  had  published  a paper titled “Fuzzy Logic Based Farm Automation Using Arduino and LabVIEW with X-Bee Based Control System” in International Journal of Engineering and Advanced Technology (IJEAT)
+M.BalajiVenkatesh, Karthikkalkura, Shriraam.A.C of (2010-2014) batch had published a journal titled “ Student  Locker Protection Using RFID Tag & Reader “International Journal of Engineering and advanced Technology(IJEAT) (2013).
+Bhargavi, D. Divya , R. Sowmya of (2011-2015) batch have published a paper on ‘Cost effective implementation of self-balancing robot with space utilization’ in the journal “Institution of Engineers” ,in the August edition, 2014. 
+
+ 
+
+
+Sports
+Ms. Akshaya Sri got 2nd place in 10km marathon  and received medal from honourable Chief Minister of Tamilnadu
+ 
+
+
+Our Distinguished AlumniMajor Isleen Kaur
+ 
+
+Graduated from Meenakshi Sundararajan Engg College, ANNA UNIV, Chennai in the year 2011 in the stream of EEE.
+Awarded as college topper for 4 consecutive years with aggregate of 88%.
+Joined Indian armed forces in the year 2011 by scoring 1st Rank in the order of merit of ARMY SERVICE SELECTION BOARD, Bangalore.
+First lady officer from Tamil Nadu serving with the armed forces.
+Awarded with OP HIFAZAT and OP RHINO medal during the tenure in the North Eastern sector.
+Served in eastern and western borders. Currently serving as Major in Indian army.
+
+DISTINGUISHED ALUMNI
+
+
+
+
+S.NO
+
+
+NAME OF THE ALUMNI
+
+
+BATCH
+
+
+POSITION /INDUSTRY
+
+
+
+
+1.       
+
+
+SAIPRIYA
+
+
+2003-2007
+
+
+Associate Manager/HCl Technologies
+
+
+
+
+2.       
+
+
+AADIT VAIDYANATHAN
+
+
+2003-2007
+
+
+CISCO
+
+
+
+
+3.       
+
+
+NATARAJAN SWAMINATHAN
+
+
+2004-2008
+
+
+Control Engineer/
+HP,Singapore
+
+
+
+
+4.       
+
+
+SRIRAM G R
+
+
+2006-2010
+
+
+Senior  Engineer R&D/
+DIEBOLD NIXDORF PTE ltd
+
+
+
+
+5.       
+
+
+JAYAMOORTHY
+
+
+2006-2010
+
+
+Manager /LARSEN  & TOUBRO LIMITED
+
+
+
+
+6.       
+
+
+KEERTHANA
+
+
+2006-2010
+
+
+Design Engineer / VOLVO CARS Gothenburg
+
+
+
+
+7.       
+
+
+RADHA NARAYANAN
+
+
+2006-2010
+
+
+CEO /
+GURUCOOL FUN
+
+
+
+
+8.       
+
+
+HARSHINI  RAMACHANDRAN
+
+
+2007-2011
+
+
+Associate   project manager  /
+ROBERT BOSCH LTD, BANGALORE
+
+
+
+
+9.       
+
+
+VIGNESH V.S
+
+
+ 
+2007-2011
+
+
+Probe Functional Engineer/
+MICRON SEMICONDUCTOR ASIA PVT LTD
+
+
+
+
+10.   
+
+
+MANOJ KUMAR.S
+ 
+
+
+2007-2011
+
+
+Senior Associate/COGNIZANT
+
+
+
+
+11.   
+
+
+BHARGAV .S
+
+
+2007-2011
+
+
+Research Engineer/EDF
+
+
+
+
+12.   
+
+
+SAISHREE
+
+
+2009-2013
+
+
+Senior Engineer-Transmission planning &Regulatory /
+QUANTA TECHNOLOGY
+
+
+
+
+13.   
+
+
+HARIRAGHAV
+
+
+2009-2013
+
+
+R&D Software Engineer /WALT DISNEY WORLD
+
+
+
+
+14.   
+
+
+MAYUKH KAPOOR
+
+
+2009-2013
+
+
+Design Engineer/L&T Construction
+
+
+
+
+15.   
+
+
+SINDHUJA
+
+
+2009-2013
+
+
+Application Engineer protection /
+SCHWEITZER ENGINEERING LABORATORIES B.V , NORTHERN EUROPE.
+
+
+
+
+16.   
+
+
+ACHUTHAN RENGARAJAN
+
+
+2009-2013
+
+
+Field Application Engineer /SAMSUNG ELECTRONICS
+
+
+
+
+17.   
+
+
+HARIHARAN R
+
+
+2009-2013
+
+
+Software Engineer/ BOSE
+
+
+
+
+18.   
+
+
+R.GANESH
+
+
+2010-2014
+
+
+Executive Engineer/
+SEIMENS LTD.,GOA.
+
+
+
+
+19.   
+
+
+R.K.SUMAN
+
+
+2010-2014
+
+
+Assistant Engineer / TNEB.
+
+
+
+
+20.   
+
+
+SANJAY RAAM
+
+
+2010-2014
+
+
+Graphics software Engineer/
+INTEL CORPORATION
+
+
+
+
+21.   
+
+
+BHARATH CHANDER
+
+
+2010-2014
+
+
+BSNL
+
+
+
+
+22.   
+
+
+PRASANNA SURESH
+
+
+2010-2014
+
+
+Software Engineer /SIEMENS
+
+
+
+
+23.   
+
+
+SHRUTILAYA RAMESH
+
+
+2011-2015
+
+
+CUMMINS INC
+
+
+
+
+24.   
+
+
+BHARATH KUMAR.M.M
+
+
+2011-2015
+
+
+Assistant Engineer / TNEB
+
+
+
+
+25.   
+
+
+BHARGAVI GOVINDARAJAN
+
+
+2011-2015
+
+
+INTEL CORPORATION
+
+
+
+
+26.   
+
+
+RAMANAN.G.R
+ 
+
+
+2012-2016
+
+
+R&D Engineer,
+ESAB india ltd.,Sriperumbadur
+
+
+
+
+ 
+ENTREPRENEURS
+
+
+
+
+S.NO
+
+
+NAME OF THE ALUMNI
+
+
+BATCH
+
+
+COMPANY NAME
+
+
+
+
+1.       
+
+
+NAGOOR MEERAN
+
+
+2003-2007
+
+
+ELMECH PROJECTS
+
+
+
+
+2.       
+
+
+SARAVANAN CHANDRASEKAR
+
+
+2003-2007
+
+
+POWER TRANSFORM ELECTRICAL TRAINING CENTRE
+
+
+
+
+3.       
+
+
+BONIFACE
+
+
+2004-2008
+
+
+ULAGINOLI
+
+
+
+
+4.       
+
+
+TAMILVENDHAN
+
+
+2004-2008
+
+
+SNIPE ENGINEERS PVT.LTD.
+
+
+
+
+5.       
+
+
+SANTOSH KUMAR S
+
+
+2005-2009
+
+
+ECUBE PROJECTS
+
+
+
+
+6.       
+
+
+SURYA PRAKASH,
+NARESH KARTHICK
+PRAHALADHAN
+
+
+2006-2010
+
+
+ELECTROTECH SYSTEMS 
+
+
+
+
+7.       
+
+
+SURYA PRAKASH,
+NARESH KARTHICK
+PRAHALADHAN
+
+
+2006-2010
+
+
+ELECTROTECH INDUSTRIAL TRAINING SOLUTIONS
+
+
+
+
+8.       
+
+
+SHAKEEL AHMED
+
+
+2010-2014
+
+
+BIOTRONIK
+
+
+
+
+9.       
+
+
+UDYA RAGHAVAN
+
+
+2012-2016
+
+
+CYBER SIKSHA
+
+
+
+
+ 
+HIGHER STUDIES
+
+
+
+
+S.NO
+
+
+NAME
+
+
+BATCH
+
+
+DEGREE
+
+
+UNIVERSITY                       
+
+
+
+
+1.       
+
+
+V.P.ARAVIND
+
+
+2014-2018
+
+
+MS Computer science
+
+
+Rochester institute of Technology
+
+
+
+
+2.       
+
+
+SAKTHIVEL
+
+
+2014-2018
+
+
+MS  Electrical &  Computer Engineering
+
+
+University of Waterloo
+
+
+
+
+3.       
+
+
+ROGER ANTONY
+
+
+2014-2018
+
+
+MS  Electrical & Computer Engineering
+
+
+Ontario province
+
+
+
+
+4.       
+
+
+HARI SHANKAR
+
+
+2013-2017
+
+
+MS Electrical Engineering
+
+
+Arizona State University
+
+
+
+
+5.       
+
+
+HARI NARAYANAN
+
+
+2013-2017
+
+
+MS Computer and Electrical Engineering
+
+
+Concordia University
+
+
+
+
+6.       
+
+
+SHRUTHI MOHANKUMAR
+
+
+2013-2017
+
+
+MS  Electrical Engineering
+
+
+University of Houston
+
+
+
+
+7.       
+
+
+NITHIN RAMADAS
+
+
+2012-2016
+
+
+MS
+
+
+The University of Queensland-India
+
+
+
+
+8.       
+
+
+SIDDARTH
+ 
+
+
+2012-2016
+
+
+MS
+
+
+Melbourne Royal University
+
+
+
+
+9.       
+
+
+ANCHJANA
+
+
+2012-2016
+
+
+MS
+
+
+Swinburne University of Technology,Australia
+
+
+
+
+10.   
+
+
+KRISHNA KUMAR
+
+
+2012-2016
+
+
+PHD
+
+
+Malaysian University
+
+
+
+
+11.   
+
+
+SHRUTILAYA RAMESH
+
+
+2011-2015
+
+
+MS
+
+
+University of TEXAS , Arlington
+
+
+
+
+12.   
+
+
+PRASANNA SURESH
+
+
+2010-2014
+
+
+MS in Electrical and computer Engineering
+
+
+Cornell University
+
+
+
+
+13.   
+
+
+BHARATWAJ SANKARAN
+
+
+2010-2014
+
+
+MS in Computer Engineering
+
+
+North Eastern University
+
+
+
+
+14.   
+
+
+ACHUTHAN RENGARAJAN
+
+
+2009-2013
+
+
+MS
+
+
+ROCHESTER UNIVERSITY, New York
+
+
+
+
+
+
+
+
+
+
+
+
+ 363, Arcot Road, Kodambakkam, Chennai - 24 
+
+
+
+All Rights Reserved
+
+
+

@@ -1,0 +1,370 @@
+
+
+
+ Artificial Intelligence and Data Science 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MSEC
+
+
+Contact Us At : 9790821869 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+ ABOUT 
+
+ Vision and Mission 
+ Management 
+ Administration & Faculty 
+ Statutory Cells/ Committees
+  Admissions
+  Fees 
+
+
+
+ DEPARTMENTS 
+
+ Civil Engineering 
+ Computer Science and Engineering 
+ Electronics and Communication Engineering 
+ Electrical and Electronics Engineering 
+ Information Technology 
+ Mechanical Engineering 
+ Artificial Intelligence and Data Science 
+ Humanities and Science 
+
+
+
+ WHY MSEC 
+
+ Campus Life 
+ Counselling  
+ Accolades  
+ Gallery 
+
+
+
+ INFRASTRUCTURES 
+
+ Laboratories 
+ Auditoriums 
+ Library 
+
+
+ RESEARCH 
+ PLACEMENTS 
+ NIRF 
+ Mandatory Disclosure 
+ CONTACT US 
+
+
+
+
+
+
+
+  Artificial Intelligence and Data Science 
+
+ B.Tech Artificial Intelligence and Data Science has been approved for MSEC by AICTE from the academic year 2021-22 (Intake 60)
+
+
+
+
+
+ About the Department 
+ Infrastructure 
+ Association & Activities 
+ Academics 
+ Innovations in Teaching 
+ Events 
+ Achievements 
+ Faculty 
+ Sports 
+ Alumni 
+ R & D 
+
+
+
+
+
+
+
+
+ABOUT THE DEPARTMENT 
+The realm of Artificial Intelligence stands as a beacon of modern innovation, casting its brilliance across the landscape of human progress much like a department that has garnered laurels for its college. The department of Artificial Intelligence and Data Science was started in the year of 2021 with the enrollment of 60 students under the wonderful administration of Mrs.Mathangi Narayanan .Guided by a corps of dedicated and impassioned scholars, its hallowed halls resound with the echoes of knowledge, its laboratories a crucible where the alchemy of understanding transforms raw curiosity into robust expertise. The arsenal of cutting-edge tools, including state-of-the-art hardware and software housed within meticulously crafted computer labs, ensures that students emerge not just as practitioners, but as visionary architects of the technological future. An alliance of consequence has been forged, as the institution embraces a Campus Agreement with industry titans such as Microsoft, Infosys, CTS, and TCS, an indomitable pact that bestows upon its denizens the mantle of innovation by adorning them with the latest technological marvels .Just as the virtuous sun ignites the world with its luminous touch, so does the department of Artificial Intelligence illuminate our intellectual horizons, casting a resplendent glow upon the ever-advancing frontier of human ingenuity.
+VISION: 
+To achieve academic excellence by imparting state of the art technical education to mould engineers who contribute to the society through innovation and research in the field of Artificial intelligence and Data science.
+ 
+MISSION: 
+Mission 1: To empower staff and students with the in depth knowledge of concepts in Artificial intelligence and data science
+Mission 2: To develop products and solutions through Innovation and research through constant interaction with Society and stakeholders
+Mission 3: To inculcate the practise of ethical and moral standards
+ 
+Program Educational Objectives (PEOs)
+PEO1: To provide graduates with the proficiency to utilize the fundamental knowledge of basic sciences, mathematics, Artificial Intelligence, data science and statistics to build systems that require management and analysis of large volume of data.
+PEO2: To enrich graduates with necessary technical skills to pursue pioneering research in the field of AI and Data Science and create disruptive and sustainable solutions for the welfare of ecosystems.
+PEO3: To enable graduates to think logically, pursue lifelong learning and collaborate with an ethical attitude in a multidisciplinary team.
+PEO4:To enable the graduates to design and model AI based solutions to critical problem domains in the real world.
+PEO5: To enrich the innovative thoughts and creative ideas of the graduates for effective contribution towards economy building.
+ 
+Program Specific Objectives (PSOs)
+Graduates should be able to:
+PSO 1: Evolve AI based efficient domain specific processes for effective decision making in several domains such as business and governance domains. 
+PSO 2: Arrive at actionable Foresight, Insight, hindsight from data for solving business and engineering problems  
+PSO 3: Create, select and apply the theoretical knowledge of AI and Data Analytics along with practical industrial tools and techniques to manage and solve wicked societal problems .
+PSO 4: develop data analytics and data visualization skills, skills pertaining to knowledge acquisition, knowledge representation and knowledge engineering, and hence be capable of coordinating complex projects. 
+PSO 5: able to carry out fundamental research to cater the critical needs of the society through cutting edge technologies of AI.
+Program Outcomes 
+The graduates in Information Technology will:
+
+
+PO1 : Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals and engineering specialization to the solution of complex engineering problems.
+PO2 :Problem analysis: Identify, formulate, review, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3 :Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4 :Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5 :Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+PO6 :The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO7 :Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8 :Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9 :Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10 :Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11 : Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12 :Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+
+
+
+
+
+Faculty 
+
+
+
+
+
+S.NO
+
+
+Name of the Faculty    
+
+
+Qualification    
+
+
+Designation    
+
+
+Areas of Interest          
+
+
+
+
+1
+
+
+Mrs. N. Mathangi
+
+
+M.E., M.B.A, [Ph.D.]
+
+
+HOD & Associate Professor
+
+
+Machine Learning
+
+
+
+
+2
+
+
+Dr.M.K.Sandhya
+
+
+M.E., Ph.D.
+
+
+Professor
+
+
+Cryptography and Network Security, Mobile Computing, IoT, Machine Learning
+
+
+
+
+3
+
+
+Ms.S.Subbalakshmi
+
+
+M.E.
+
+
+Assistant Professor
+
+
+Artificial Intelligence
+
+
+
+
+4
+
+
+Mrs. A.Jaya Priya
+
+
+M.E.
+
+
+Assistant Professor
+
+
+IOT
+
+
+
+
+5
+
+
+Mrs. P. Muthulakshmi
+
+
+M.E.
+
+
+Assistant Professor
+
+
+Data Science
+
+
+
+
+6
+
+
+Mrs. A.R. Jariya Begum
+
+
+M.E.
+
+
+Assistant Professor
+
+
+Artificial Intelligence
+
+
+
+
+7
+
+
+Mrs. S.Ramani
+
+
+M.E.
+
+
+Assistant Professor
+
+
+IOT
+
+
+
+
+8
+
+
+Mrs.K. Sweta Karunya 
+
+
+M.Tech.
+
+
+Assistant Professor
+
+
+Artificial Intelligence
+
+
+
+
+9
+
+
+Mrs.G.Sujitha 
+
+
+M.Tech.
+
+
+Assistant Professor
+
+
+Artificial Intelligence
+
+
+
+
+10
+
+
+Mrs.Ani Bernish T  
+
+
+M.E.
+
+
+Assistant Professor
+
+
+Data Science
+
+
+
+
+ 
+
+
