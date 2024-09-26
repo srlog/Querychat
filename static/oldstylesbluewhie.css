@@ -3,7 +3,7 @@
   }
   
   body {
-    background-color: #020a12;
+    background-color: white;
     font-family: "Calibri", "Roboto", sans-serif;
   }
   
@@ -12,7 +12,7 @@
     width: 100%;
     height: 100vh;
     border-radius: 10px;
-    background-color: #020a12 ;
+    background-color: white    ;
     left: 50%;
     top: 50%;
     transform: translateX(-50%) translateY(-50%);
@@ -21,7 +21,7 @@
   }
   
   .top_menu {
-    background-color: black;
+    background-color: rgb(86, 165, 255) ;
     width: 100%;
     padding: 20px 0 15px;
     box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -40,7 +40,7 @@
   }
   .top_menu .title {
     text-align: center;
-    color: white;
+    color: black;
     font-size: 25px;
     font-weight: 600;
   }
@@ -52,7 +52,7 @@
     margin: 0;
     height: 80%;
     overflow: scroll;
-    background-color: #020a12;
+    background-color: white;
   }
   .messages .message {
     clear: both;
@@ -61,45 +61,24 @@
     transition: all 0.5s linear;
     opacity: 0;
   }
-  .mic{
-    height: 90%;
-    width: 3%;
-    background-image: url('./images/mic.png');
-    background-size: cover;
-    z-index: 100000000;
-    transform: translateX(3270%);
-    border-radius: 100%;
-  }
-  .mic:hover{
-    background-color: #020a12;
-    
-  }
   .messages .message.left .avatar {
-    background-image: url("./images/ai.png");
+    background-image: url("./images/ai.webp");
     background-size: cover;
     background-color: white;
     float: left;
   }
   .messages .message.left .text_wrapper {
-    background-color: #020a12;
-    color: white;
-    text-align: left;
+    background-color: white  ;
+    color: black;
     margin-left: 20px;
-    float: left;
-    transition: 0.5s ease; 
     
   }
-
-  .messages .message.left .text_wrapper:hover {
-    background-color: #03111f  ;
-  }
-
   .messages .message.left .text_wrapper::after, .messages .message.left .text_wrapper::before {
     right: 100%;
-    border-right-color: #020a12;
+    border-right-color: white;
   }
   .messages .message.left .text {
-    color:white;
+    color:black;
     font-weight: 300;
 
   }
@@ -109,35 +88,32 @@
     float: right;
   }
   .messages .message.right .text_wrapper {
-    background-color: #020a12;
-    color: white;
+    background-color: white;
+    color: black;
     text-align: right;
     margin-right: 20px;
     float: right;
-    transition: 0.5s ease;
-  }
-  .messages .message.right .text_wrapper:hover {
-    background-color: #03111f;
   }
   .messages .message.right .text_wrapper::after, .messages .message.right .text_wrapper::before {
     left: 100%;
-    border-left-color: #020a12;
+    border-left-color: white;
   }
   .messages .message.right .text {
+    color: black;
     font-weight: 300;
   }
   .messages .message.appeared {
     opacity: 1;
   }
   .messages .message .avatar {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     display: inline-block;
   }
   .messages .message .text_wrapper {
     display: inline-block;
-    padding: 10px;
+    padding: 20px;
     border-radius: 6px;
     width: calc(100% -500px);
     min-width: 100px;
@@ -168,16 +144,16 @@
   .bottom_wrapper {
     position: relative;
     width: 100%;
-    background-color: black;
+    background-color: white;
     padding: 20px 20px;
     position: absolute;
     bottom: 0;
   }
   .bottom_wrapper .message_input_wrapper {
     display: inline-block;
-    height: 45px;
+    height: 50px;
     border-radius: 5px;
-    border: 2px solid white;
+    border: 2px solid black;
     width: calc(100% - 160px);
     position: relative;
     padding: 0 20px;
@@ -186,8 +162,8 @@
     border: none;
     height: 100%;
     box-sizing: border-box;
-    color:white;
-    width: calc(100% - 160px);
+    color:black;
+    width: calc(100% - 60px);
     font-size:medium;
     position: absolute;
     font-weight: 300;
@@ -231,12 +207,12 @@
 
 /* Scrollbar track */
 .messages::-webkit-scrollbar-track {
-    background: black;
+    background: white;
 }
 
 /* Scrollbar thumb */
 .messages::-webkit-scrollbar-thumb {
-    background-color: white;
+    background-color: black;
     border-radius: 4px;
 }
 
