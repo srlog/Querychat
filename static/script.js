@@ -17,7 +17,7 @@
     };
 
     $(function () {
-        var getMessageText, message_side, sendMessage, sendToBackend;
+        var getMessageText, message_side;
         message_side = 'right';
 
         getMessageText = function () {
@@ -26,7 +26,8 @@
             return $message_input.val();
         };
 
-        sendMessage = function (text, side) {
+        // Move sendMessage to be a global function
+        window.sendMessage = function (text, side) {
             var $messages, message;
             if (text.trim() === '') {
                 return;
@@ -72,3 +73,27 @@
         });
     });
 }.call(this));
+
+// Check if the browser supports speech recognition
+const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+const recognition = new SpeechRecognition();
+
+// Configure recognition
+recognition.continuous = false;
+recognition.lang = 'en-US';
+recognition.interimResults = false;
+
+// When the user clicks on the mic, start listening
+document.querySelector('.mic').addEventListener('click', () => {
+    recognition.start();
+});
+
+// When the speech recognition service returns a result
+recognition.onresult = (event) => {
+    const transcript = event.results[0][0].transcript;
+    document.querySelector('.message_input').value = transcript;  // Set the recognized text in the input field
+    var messageText = transcript;
+    sendMessage(messageText, 'right');  // Display user's message on the right side
+    sendToBackend(messageText);  // Send user's message to the backend
+    $('.message_input').val('');  // Clear the input field
+};
