@@ -1,7 +1,10 @@
 from flask import Flask, render_template, request, jsonify
 import groq
+from translate import Translator
+from langdetect import detect
 
 app = Flask(__name__)
+
 # Initialize the Groq client with your API key
 try:
     client = groq.Groq(api_key="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")
@@ -29,7 +32,6 @@ if 'embeddings' not in df.columns or 'fileName' not in df.columns or 'content' n
 # Function to clean and validate JSON data
 def clean_json(json_str):
     try:
-        # Clean up JSON strings
         json_str = json_str.strip().replace("'", '"')  # Replace single quotes with double quotes
         json_str = json_str.replace(" ", "")  # Remove unnecessary spaces
         return json.loads(json_str)
@@ -59,21 +61,16 @@ def calculate_similarity(query_embedding, doc_embedding):
     return np.dot(query_embedding, doc_embedding) / (np.linalg.norm(query_embedding) * np.linalg.norm(doc_embedding))
 
 # Function to find the best matches for a given query
-def find_best_matches(user_query, top_n=3):
-    # Compute embedding for the user's query
+def find_best_matches(user_query, top_n=2):
     query_embedding = model.encode(user_query)
 
-    # Check if the query embedding is valid
     if np.linalg.norm(query_embedding) == 0:
         return {"reply": "Query embedding is invalid. Please provide a more meaningful query."}
 
-    # Calculate similarities and sort results
     df['similarity'] = df['embeddings'].apply(lambda x: calculate_similarity(query_embedding, x))
     
-    # Get the top_n most similar documents
     top_matches = df.nlargest(top_n, 'similarity')
 
-    # Check for matches and return the top matches
     if top_matches['similarity'].isnull().all() or top_matches['similarity'].max() == 0:
         return {"reply": "No matching documents found."}
     else:
@@ -90,17 +87,19 @@ def find_best_matches(user_query, top_n=3):
         Also form the sentences, by referring you are part of the college"""
     
 from groq import Groq
-client = Groq(
-    api_key="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"
-)
+client = Groq(api_key="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")
 
 conversation_history = [
     {
         "role": "system",
-        "content": "You are a An inference engine capable of deducing implicit geospatial information from user queries."
+        "content": "You are an inference engine capable of deducing implicit geospatial information from user queries."
     }
 ]
+
 def ask(user_input):
+    if len(conversation_history)>1:
+        conversation_history.pop(0)
+
     conversation_history.append({
         "role": "user",
         "content": find_best_matches(user_input)
@@ -123,23 +122,45 @@ def ask(user_input):
     })
     return response
 
-
-
 @app.route('/', methods=['GET', 'POST'])
 def index():
     gpt_response = ""
     return render_template('index.html', gpt_response=gpt_response)
 
 
-
-import requests
 @app.route('/chat', methods=['POST'])
 def chat():
     user_message = request.json.get('message')
-    groq_reply = ask(user_message)
+    detected_lang = detect(user_message)
+    
+    # If the detected language is English, return the original text
+    flag  = True
+    if detected_lang != 'en':
+        flag = False
+        # Otherwise, translate the text to English
+        translator = Translator(from_lang=detected_lang, to_lang="en")
+        translated_message = translator.translate(user_message)
+        translated_message += "You should only respond on the language: "+user_message
+
+    else:
+        translated_message = user_message
+    
+    # Send translated message to Groq and get reply
+    groq_reply = ask(translated_message)
+    
+    # Format the response for display
     ls = groq_reply.split('\n')
     groq_reply = '<br>'.join(ls)
-    print('user:',user_message,'AI:',groq_reply)
+    
+    print('user:', user_message, 'translated:', translated_message, 'AI:', groq_reply)
+    
     return jsonify({'reply': groq_reply})
+
+
+
+
+
+
+
 if __name__ == "__main__":
     app.run(debug=True)

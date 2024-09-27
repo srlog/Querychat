@@ -80,7 +80,7 @@ const recognition = new SpeechRecognition();
 
 // Configure recognition
 recognition.continuous = false;
-recognition.lang = 'en-US';
+recognition.lang = 'hi-IN';
 recognition.interimResults = false;
 
 // When the user clicks on the mic, start listening

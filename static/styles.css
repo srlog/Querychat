@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+
+    
   }
   
   body {
@@ -41,7 +43,7 @@
   .top_menu .title {
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
   }
   
@@ -52,7 +54,8 @@
     margin: 0;
     height: 80%;
     overflow: scroll;
-    background-color: #020a12;
+    background-color:rgb(69, 69, 69);
+    font-family: 'Courier New', Courier, monospace;
   }
   .messages .message {
     clear: both;
@@ -81,18 +84,15 @@
     float: left;
   }
   .messages .message.left .text_wrapper {
-    background-color: #020a12;
+    background-color: #03111f;
     color: white;
     text-align: left;
+    padding: 20px 30px;
+    max-width: 90%;
     margin-left: 20px;
     float: left;
-    transition: 0.5s ease; 
-    
   }
 
-  .messages .message.left .text_wrapper:hover {
-    background-color: #03111f  ;
-  }
 
   .messages .message.left .text_wrapper::after, .messages .message.left .text_wrapper::before {
     right: 100%;
@@ -110,14 +110,14 @@
   }
   .messages .message.right .text_wrapper {
     background-color: #020a12;
+    padding: 20px 30px;
     color: white;
+    max-width: 90%;
     text-align: right;
     margin-right: 20px;
     float: right;
-    transition: 0.5s ease;
-  }
-  .messages .message.right .text_wrapper:hover {
     background-color: #03111f;
+    transition: 0.5s ease;
   }
   .messages .message.right .text_wrapper::after, .messages .message.right .text_wrapper::before {
     left: 100%;
@@ -138,7 +138,7 @@
   .messages .message .text_wrapper {
     display: inline-block;
     padding: 10px;
-    border-radius: 6px;
+    border-radius: 25px;
     width: calc(100% -500px);
     min-width: 100px;
     position: relative;
@@ -168,7 +168,7 @@
   .bottom_wrapper {
     position: relative;
     width: 100%;
-    background-color: black;
+    background-color: rgb(69, 69, 69);
     padding: 20px 20px;
     position: absolute;
     bottom: 0;
@@ -176,7 +176,7 @@
   .bottom_wrapper .message_input_wrapper {
     display: inline-block;
     height: 45px;
-    border-radius: 5px;
+    border-radius: 50px;
     border: 2px solid white;
     width: calc(100% - 160px);
     position: relative;
@@ -198,7 +198,7 @@
     width: 140px;
     height: 50px;
     display: inline-block;
-    border-radius:5px;
+    border-radius:50px;
     background-color:#023020;
     
     border: 2px solid #000000;
@@ -231,12 +231,12 @@
 
 /* Scrollbar track */
 .messages::-webkit-scrollbar-track {
-    background: black;
+    background:  rgb(69, 69, 69);;
 }
 
 /* Scrollbar thumb */
 .messages::-webkit-scrollbar-thumb {
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     border-radius: 4px;
 }
 
